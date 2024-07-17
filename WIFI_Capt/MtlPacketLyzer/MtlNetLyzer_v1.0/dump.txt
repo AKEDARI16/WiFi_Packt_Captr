@@ -1,0 +1,1038 @@
+18:12:39.466184 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:39.568846 ARP, Request who-has 192.168.202.50 tell 192.168.202.71, length 46
+18:12:39.568848 IP 192.168.202.71.mdns > mdns.mcast.net.mdns: 0 A (QM)? npic4b175.local. (33)
+18:12:39.670910 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? d.d.2.b.b.a.d.3.8.3.3.d.7.2.4.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:39.670941 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:39.773095 ARP, Request who-has 192.168.203.43 (Broadcast) tell 192.168.203.43, length 46
+18:12:39.875175 IP 192.168.202.247.mdns > mdns.mcast.net.mdns: 3 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:12:39.888272 IP aravind-thinkpad-e15-gen-4.41320 > 52.123.173.174.https: Flags [P.], seq 2781101826:2781101883, ack 4140990780, win 501, length 57
+18:12:39.987320 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:39.987325 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:40.086745 IP 52.123.173.174.https > aravind-thinkpad-e15-gen-4.41320: Flags [P.], seq 1:47, ack 57, win 2048, length 46
+18:12:40.086793 IP aravind-thinkpad-e15-gen-4.41320 > 52.123.173.174.https: Flags [.], ack 47, win 501, length 0
+18:12:40.182591 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:40.376210 IP aravind-thinkpad-e15-gen-4.46359 > dns.google.domain: 34780+ [1au] PTR? 255.203.168.192.in-addr.arpa. (57)
+18:12:40.392017 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46359: 34780 NXDomain 0/0/1 (57)
+18:12:40.392017 ARP, Request who-has 192.168.202.124 tell 192.168.202.5, length 46
+18:12:40.392283 IP aravind-thinkpad-e15-gen-4.46359 > dns.google.domain: 34780+ PTR? 255.203.168.192.in-addr.arpa. (46)
+18:12:40.406517 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46359: 34780 NXDomain 0/0/0 (46)
+18:12:40.407688 IP aravind-thinkpad-e15-gen-4.59129 > dns.google.domain: 64794+ [1au] PTR? 51.202.168.192.in-addr.arpa. (56)
+18:12:40.427293 IP dns.google.domain > aravind-thinkpad-e15-gen-4.59129: 64794 NXDomain 0/0/1 (56)
+18:12:40.427554 IP aravind-thinkpad-e15-gen-4.59129 > dns.google.domain: 64794+ PTR? 51.202.168.192.in-addr.arpa. (45)
+18:12:40.447721 IP dns.google.domain > aravind-thinkpad-e15-gen-4.59129: 64794 NXDomain 0/0/0 (45)
+18:12:40.448869 IP aravind-thinkpad-e15-gen-4.57757 > dns.google.domain: 32333+ [1au] PTR? 50.202.168.192.in-addr.arpa. (56)
+18:12:40.465476 IP dns.google.domain > aravind-thinkpad-e15-gen-4.57757: 32333 NXDomain 0/0/1 (56)
+18:12:40.465759 IP aravind-thinkpad-e15-gen-4.57757 > dns.google.domain: 32333+ PTR? 50.202.168.192.in-addr.arpa. (45)
+18:12:40.480399 IP dns.google.domain > aravind-thinkpad-e15-gen-4.57757: 32333 NXDomain 0/0/0 (45)
+18:12:40.481120 IP aravind-thinkpad-e15-gen-4.60884 > dns.google.domain: 65386+ [1au] PTR? 71.202.168.192.in-addr.arpa. (56)
+18:12:40.499276 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:40.499278 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:40.501430 IP dns.google.domain > aravind-thinkpad-e15-gen-4.60884: 65386 NXDomain 0/0/1 (56)
+18:12:40.501921 IP aravind-thinkpad-e15-gen-4.60884 > dns.google.domain: 65386+ PTR? 71.202.168.192.in-addr.arpa. (45)
+18:12:40.520709 IP dns.google.domain > aravind-thinkpad-e15-gen-4.60884: 65386 NXDomain 0/0/0 (45)
+18:12:40.522951 IP aravind-thinkpad-e15-gen-4.59168 > dns.google.domain: 50755+ [1au] PTR? 234.202.168.192.in-addr.arpa. (57)
+18:12:40.537965 IP dns.google.domain > aravind-thinkpad-e15-gen-4.59168: 50755 NXDomain 0/0/1 (57)
+18:12:40.538209 IP aravind-thinkpad-e15-gen-4.59168 > dns.google.domain: 50755+ PTR? 234.202.168.192.in-addr.arpa. (46)
+18:12:40.552605 IP dns.google.domain > aravind-thinkpad-e15-gen-4.59168: 50755 NXDomain 0/0/0 (46)
+18:12:40.553691 IP aravind-thinkpad-e15-gen-4.55644 > dns.google.domain: 4242+ [1au] PTR? 217.202.168.192.in-addr.arpa. (57)
+18:12:40.568692 IP dns.google.domain > aravind-thinkpad-e15-gen-4.55644: 4242 NXDomain 0/0/1 (57)
+18:12:40.569004 IP aravind-thinkpad-e15-gen-4.55644 > dns.google.domain: 4242+ PTR? 217.202.168.192.in-addr.arpa. (46)
+18:12:40.583083 IP dns.google.domain > aravind-thinkpad-e15-gen-4.55644: 4242 NXDomain 0/0/0 (46)
+18:12:40.584607 IP aravind-thinkpad-e15-gen-4.53751 > dns.google.domain: 23561+ [1au] PTR? 43.203.168.192.in-addr.arpa. (56)
+18:12:40.600013 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 867 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:12:40.600030 IP dns.google.domain > aravind-thinkpad-e15-gen-4.53751: 23561 NXDomain 0/0/1 (56)
+18:12:40.600034 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:12:40.600274 IP aravind-thinkpad-e15-gen-4.53751 > dns.google.domain: 23561+ PTR? 43.203.168.192.in-addr.arpa. (45)
+18:12:40.616336 IP dns.google.domain > aravind-thinkpad-e15-gen-4.53751: 23561 NXDomain 0/0/0 (45)
+18:12:40.618060 IP aravind-thinkpad-e15-gen-4.38321 > dns.google.domain: 50698+ [1au] PTR? 247.202.168.192.in-addr.arpa. (57)
+18:12:40.633797 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38321: 50698 NXDomain 0/0/1 (57)
+18:12:40.634155 IP aravind-thinkpad-e15-gen-4.38321 > dns.google.domain: 50698+ PTR? 247.202.168.192.in-addr.arpa. (46)
+18:12:40.649583 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38321: 50698 NXDomain 0/0/0 (46)
+18:12:40.651082 IP aravind-thinkpad-e15-gen-4.51231 > dns.google.domain: 31942+ [1au] PTR? 174.173.123.52.in-addr.arpa. (56)
+18:12:40.671589 IP dns.google.domain > aravind-thinkpad-e15-gen-4.51231: 31942 NXDomain 0/1/1 (142)
+18:12:40.671938 IP aravind-thinkpad-e15-gen-4.51231 > dns.google.domain: 31942+ PTR? 174.173.123.52.in-addr.arpa. (45)
+18:12:40.691611 IP dns.google.domain > aravind-thinkpad-e15-gen-4.51231: 31942 NXDomain 0/1/0 (131)
+18:12:40.693388 IP aravind-thinkpad-e15-gen-4.49568 > dns.google.domain: 23217+ [1au] PTR? 235.203.168.192.in-addr.arpa. (57)
+18:12:40.694460 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:40.694472 ARP, Request who-has 192.168.203.43 (Broadcast) tell 192.168.203.43, length 46
+18:12:40.709966 IP dns.google.domain > aravind-thinkpad-e15-gen-4.49568: 23217 NXDomain 0/0/1 (57)
+18:12:40.710389 IP aravind-thinkpad-e15-gen-4.49568 > dns.google.domain: 23217+ PTR? 235.203.168.192.in-addr.arpa. (46)
+18:12:40.725638 IP dns.google.domain > aravind-thinkpad-e15-gen-4.49568: 23217 NXDomain 0/0/0 (46)
+18:12:40.726959 IP aravind-thinkpad-e15-gen-4.50645 > dns.google.domain: 58773+ [1au] PTR? 67.202.168.192.in-addr.arpa. (56)
+18:12:40.742436 IP dns.google.domain > aravind-thinkpad-e15-gen-4.50645: 58773 NXDomain 0/0/1 (56)
+18:12:40.742777 IP aravind-thinkpad-e15-gen-4.50645 > dns.google.domain: 58773+ PTR? 67.202.168.192.in-addr.arpa. (45)
+18:12:40.757363 IP dns.google.domain > aravind-thinkpad-e15-gen-4.50645: 58773 NXDomain 0/0/0 (45)
+18:12:41.002264 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:41.105226 IP 192.168.202.138.mdns > mdns.mcast.net.mdns: 0 A (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:41.105229 IP 192.168.202.138.mdns > mdns.mcast.net.mdns: 0 AAAA (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:41.105249 IP6 fe80::9e35:596c:6a36:e06e.mdns > ff02::fb.mdns: 0 A (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:41.105252 IP6 fe80::9e35:596c:6a36:e06e.mdns > ff02::fb.mdns: 0 AAAA (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:41.209367 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? e.6.0.e.6.3.a.6.c.6.9.5.5.3.e.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:41.209415 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:41.209421 IP 192.168.202.71.mdns > mdns.mcast.net.mdns: 0 A (QM)? NPIC4B175.local. (33)
+18:12:41.209424 IP 192.168.202.71.mdns > mdns.mcast.net.mdns: 0 AAAA (QM)? npic4b175.local. (33)
+18:12:41.209434 IP6 fe80::6427:d338:3dab:b2dd.mdns > ff02::fb.mdns: 0 AAAA (QM)? npic4b175.local. (33)
+18:12:41.400212 IP aravind-thinkpad-e15-gen-4.53383 > dns.google.domain: 29149+ [1au] PTR? 124.202.168.192.in-addr.arpa. (57)
+18:12:41.415142 IP 192.168.202.5.mdns > mdns.mcast.net.mdns: 2 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:12:41.421751 IP dns.google.domain > aravind-thinkpad-e15-gen-4.53383: 29149 NXDomain 0/0/1 (57)
+18:12:41.422070 IP aravind-thinkpad-e15-gen-4.53383 > dns.google.domain: 29149+ PTR? 124.202.168.192.in-addr.arpa. (46)
+18:12:41.441346 IP dns.google.domain > aravind-thinkpad-e15-gen-4.53383: 29149 NXDomain 0/0/0 (46)
+18:12:41.443024 IP aravind-thinkpad-e15-gen-4.57997 > dns.google.domain: 43659+ [1au] PTR? 5.202.168.192.in-addr.arpa. (55)
+18:12:41.458494 IP dns.google.domain > aravind-thinkpad-e15-gen-4.57997: 43659 NXDomain 0/0/1 (55)
+18:12:41.458806 IP aravind-thinkpad-e15-gen-4.57997 > dns.google.domain: 43659+ PTR? 5.202.168.192.in-addr.arpa. (44)
+18:12:41.474210 IP dns.google.domain > aravind-thinkpad-e15-gen-4.57997: 43659 NXDomain 0/0/0 (44)
+18:12:41.475750 IP aravind-thinkpad-e15-gen-4.46809 > dns.google.domain: 59094+ [1au] PTR? b.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (101)
+18:12:41.516471 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46809: 59094 NXDomain 0/1/1 (165)
+18:12:41.516471 IP 192.168.202.138.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:41.516473 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:41.516492 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:41.516731 IP aravind-thinkpad-e15-gen-4.46809 > dns.google.domain: 59094+ PTR? b.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+18:12:41.532533 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46809: 59094 NXDomain 0/1/0 (154)
+18:12:41.534563 IP aravind-thinkpad-e15-gen-4.60427 > dns.google.domain: 35431+ [1au] PTR? 5.0.6.8.6.4.e.f.f.f.e.2.9.1.0.7.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:41.565918 IP dns.google.domain > aravind-thinkpad-e15-gen-4.60427: 35431 NXDomain 0/1/1 (165)
+18:12:41.566169 IP aravind-thinkpad-e15-gen-4.60427 > dns.google.domain: 35431+ PTR? 5.0.6.8.6.4.e.f.f.f.e.2.9.1.0.7.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:41.580338 IP dns.google.domain > aravind-thinkpad-e15-gen-4.60427: 35431 NXDomain 0/1/0 (154)
+18:12:41.581994 IP aravind-thinkpad-e15-gen-4.42002 > dns.google.domain: 63528+ [1au] PTR? 1.202.168.192.in-addr.arpa. (55)
+18:12:41.595822 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42002: 63528 NXDomain 0/0/1 (55)
+18:12:41.596151 IP aravind-thinkpad-e15-gen-4.42002 > dns.google.domain: 63528+ PTR? 1.202.168.192.in-addr.arpa. (44)
+18:12:41.609857 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42002: 63528 NXDomain 0/0/0 (44)
+18:12:41.611179 IP aravind-thinkpad-e15-gen-4.35343 > dns.google.domain: 8288+ [1au] PTR? 138.202.168.192.in-addr.arpa. (57)
+18:12:41.625859 IP 192.168.202.71.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:41.625861 IP 192.168.202.71.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:41.626649 IP dns.google.domain > aravind-thinkpad-e15-gen-4.35343: 8288 NXDomain 0/0/1 (57)
+18:12:41.626851 IP aravind-thinkpad-e15-gen-4.35343 > dns.google.domain: 8288+ PTR? 138.202.168.192.in-addr.arpa. (46)
+18:12:41.641866 IP dns.google.domain > aravind-thinkpad-e15-gen-4.35343: 8288 NXDomain 0/0/0 (46)
+18:12:41.643527 IP aravind-thinkpad-e15-gen-4.40948 > dns.google.domain: 35225+ [1au] PTR? e.6.0.e.6.3.a.6.c.6.9.5.5.3.e.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:41.676594 IP dns.google.domain > aravind-thinkpad-e15-gen-4.40948: 35225 NXDomain 0/1/1 (165)
+18:12:41.676865 IP aravind-thinkpad-e15-gen-4.40948 > dns.google.domain: 35225+ PTR? e.6.0.e.6.3.a.6.c.6.9.5.5.3.e.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:41.713018 IP dns.google.domain > aravind-thinkpad-e15-gen-4.40948: 35225 NXDomain 0/1/0 (154)
+18:12:41.714688 IP aravind-thinkpad-e15-gen-4.44735 > dns.google.domain: 19134+ [1au] PTR? d.d.2.b.b.a.d.3.8.3.3.d.7.2.4.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:41.722842 IP 192.168.203.34.mdns > mdns.mcast.net.mdns: 0 ANY (QM)? Mos-Com-11098.local. (37)
+18:12:41.722844 IP 192.168.203.34.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::5baf:d607:8fcf:206a, A 192.168.203.34 (75)
+18:12:41.722844 IP 192.168.203.34.mdns > mdns.mcast.net.mdns: 0 ANY (QM)? Mos-Com-11098.local. (37)
+18:12:41.722845 IP 192.168.203.34.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::5baf:d607:8fcf:206a, A 192.168.203.34 (75)
+18:12:41.722845 IP 192.168.203.34.mdns > mdns.mcast.net.mdns: 0 ANY (QM)? Mos-Com-11098.local. (37)
+18:12:41.722846 IP 192.168.203.34.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::5baf:d607:8fcf:206a, A 192.168.203.34 (75)
+18:12:41.722874 IP6 fe80::5baf:d607:8fcf:206a.mdns > ff02::fb.mdns: 0 ANY (QM)? Mos-Com-11098.local. (37)
+18:12:41.722877 IP6 fe80::5baf:d607:8fcf:206a.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 AAAA fe80::5baf:d607:8fcf:206a, A 192.168.203.34 (75)
+18:12:41.722878 IP6 fe80::5baf:d607:8fcf:206a.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 AAAA fe80::5baf:d607:8fcf:206a, A 192.168.203.34 (75)
+18:12:41.746421 IP dns.google.domain > aravind-thinkpad-e15-gen-4.44735: 19134 NXDomain 0/1/1 (165)
+18:12:41.746645 IP aravind-thinkpad-e15-gen-4.44735 > dns.google.domain: 19134+ PTR? d.d.2.b.b.a.d.3.8.3.3.d.7.2.4.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:41.777508 IP dns.google.domain > aravind-thinkpad-e15-gen-4.44735: 19134 NXDomain 0/1/0 (154)
+18:12:41.803408 IP aravind-thinkpad-e15-gen-4.46009 > dns.google.domain: 27926+ [1au] A? outlook.office.com. (47)
+18:12:41.803489 IP aravind-thinkpad-e15-gen-4.42032 > dns.google.domain: 10717+ [1au] AAAA? outlook.office.com. (47)
+18:12:41.822001 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? a.6.0.2.f.c.f.8.7.0.6.d.f.a.b.5.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:41.822003 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 380 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:12:41.837134 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46009: 27926 9/0/1 CNAME substrate.office.com., CNAME outlook.office365.com., CNAME ooc-g2.tm-4.office.com., CNAME outlook.ms-acdc.office.com., CNAME BOM-efz.ms-acdc.office.com., A 52.98.58.34, A 40.99.9.178, A 52.98.58.50, A 52.98.34.194 (245)
+18:12:41.838299 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42032: 10717 9/0/1 CNAME substrate.office.com., CNAME outlook.office365.com., CNAME ooc-g2.tm-4.office.com., CNAME outlook.ms-acdc.office.com., CNAME BOM-efz.ms-acdc.office.com., AAAA 2603:1046:c04:8a0::2, AAAA 2603:1046:c04:1016::2, AAAA 2603:1046:c04:80f::2, AAAA 2603:1046:c04:800::2 (293)
+18:12:41.866541 IP aravind-thinkpad-e15-gen-4.46662 > 52.98.34.194.https: Flags [P.], seq 3310320795:3310323390, ack 2174205891, win 1317, options [nop,nop,TS val 1397661533 ecr 408520093], length 2595
+18:12:41.867023 IP aravind-thinkpad-e15-gen-4.46662 > 52.98.34.194.https: Flags [P.], seq 2595:2626, ack 1, win 1317, options [nop,nop,TS val 1397661533 ecr 408520093], length 31
+18:12:41.906442 IP 52.98.34.194.https > aravind-thinkpad-e15-gen-4.46662: Flags [.], ack 2626, win 16386, options [nop,nop,TS val 408530460 ecr 1397661533], length 0
+18:12:41.932878 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticedirectoryservice.local. (48)
+18:12:41.932889 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:42.006501 IP aravind-thinkpad-e15-gen-4.46592 > 162.247.243.29.https: Flags [.], seq 1037396306:1037397714, ack 2041370715, win 501, options [nop,nop,TS val 872960454 ecr 667119794], length 1408
+18:12:42.035292 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:42.131519 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 [3q] PTR (QM)? 6.6.c.0.c.1.3.9.0.3.4.4.4.3.0.f.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? d.d.2.b.b.a.d.3.8.3.3.d.7.2.4.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? e.6.0.e.6.3.a.6.c.6.9.5.5.3.e.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (166)
+18:12:42.131535 IP 192.168.202.138.mdns > mdns.mcast.net.mdns: 0 A (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:42.131538 IP 192.168.202.138.mdns > mdns.mcast.net.mdns: 0 AAAA (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:42.131542 IP 192.168.202.207.64448 > mdns.mcast.net.mdns: 0 TXT (QM)? Mos-com-10818._nomachine._tcp.local. (53)
+18:12:42.131549 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticediscoveryservice.local. (48)
+18:12:42.131594 IP 52.98.34.194.https > aravind-thinkpad-e15-gen-4.46662: Flags [P.], seq 1:1357, ack 2626, win 16386, options [nop,nop,TS val 408530664 ecr 1397661533], length 1356
+18:12:42.131595 IP 52.98.34.194.https > aravind-thinkpad-e15-gen-4.46662: Flags [P.], seq 1357:1388, ack 2626, win 16386, options [nop,nop,TS val 408530664 ecr 1397661533], length 31
+18:12:42.131596 IP 52.98.34.194.https > aravind-thinkpad-e15-gen-4.46662: Flags [P.], seq 1388:1556, ack 2626, win 16386, options [nop,nop,TS val 408530669 ecr 1397661533], length 168
+18:12:42.131628 IP aravind-thinkpad-e15-gen-4.46662 > 52.98.34.194.https: Flags [.], ack 1357, win 1340, options [nop,nop,TS val 1397661798 ecr 408530664], length 0
+18:12:42.131656 IP aravind-thinkpad-e15-gen-4.46662 > 52.98.34.194.https: Flags [.], ack 1388, win 1340, options [nop,nop,TS val 1397661798 ecr 408530664], length 0
+18:12:42.131664 IP aravind-thinkpad-e15-gen-4.46662 > 52.98.34.194.https: Flags [.], ack 1556, win 1363, options [nop,nop,TS val 1397661798 ecr 408530669], length 0
+18:12:42.233562 IP 192.168.202.207.mdns > mdns.mcast.net.mdns: 0*- [0q] 1/0/0 (Cache flush) TXT "name=Mos-com-10818" "uuid=f32c8e5d-6aa7-4d4f-92b8-e1ae9678aef4" "type=NoMachine" "port=0" "OS=Windows 11" "HW=LENOVO 21JNS0AY00" "mac=60:45:2e:b7:1b:9b" "service=nx:4000" "ip=10.15.61.52;192.168.202.207;192.168.137.1;fe80::16bc:6339:e948:d60e;fe80::f584:4c00:a8d1:9d37" (312)
+18:12:42.233577 IP 192.168.202.71.mdns > mdns.mcast.net.mdns: 0 A (QM)? NPIC4B175.local. (33)
+18:12:42.233579 IP 192.168.202.71.mdns > mdns.mcast.net.mdns: 0 AAAA (QM)? NPIC4B175.local. (33)
+18:12:42.233581 IP6 fe80::6427:d338:3dab:b2dd.mdns > ff02::fb.mdns: 0 A (QM)? NPIC4B175.local. (33)
+18:12:42.233582 IP6 fe80::6427:d338:3dab:b2dd.mdns > ff02::fb.mdns: 0 AAAA (QM)? NPIC4B175.local. (33)
+18:12:42.233583 IP 192.168.202.138.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:42.333676 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:12:42.423324 IP aravind-thinkpad-e15-gen-4.57653 > dns.google.domain: 60274+ [1au] PTR? 253.202.168.192.in-addr.arpa. (57)
+18:12:42.437846 IP 192.168.202.200.64758 > 192.168.203.255.1534: UDP, length 8
+18:12:42.444439 IP dns.google.domain > aravind-thinkpad-e15-gen-4.57653: 60274 NXDomain 0/0/1 (57)
+18:12:42.444791 IP aravind-thinkpad-e15-gen-4.57653 > dns.google.domain: 60274+ PTR? 253.202.168.192.in-addr.arpa. (46)
+18:12:42.465613 IP dns.google.domain > aravind-thinkpad-e15-gen-4.57653: 60274 NXDomain 0/0/0 (46)
+18:12:42.467397 IP aravind-thinkpad-e15-gen-4.52490 > dns.google.domain: 45725+ [1au] PTR? 34.203.168.192.in-addr.arpa. (56)
+18:12:42.483438 IP dns.google.domain > aravind-thinkpad-e15-gen-4.52490: 45725 NXDomain 0/0/1 (56)
+18:12:42.483779 IP aravind-thinkpad-e15-gen-4.52490 > dns.google.domain: 45725+ PTR? 34.203.168.192.in-addr.arpa. (45)
+18:12:42.498814 IP dns.google.domain > aravind-thinkpad-e15-gen-4.52490: 45725 NXDomain 0/0/0 (45)
+18:12:42.500611 IP aravind-thinkpad-e15-gen-4.40685 > dns.google.domain: 40237+ [1au] PTR? a.6.0.2.f.c.f.8.7.0.6.d.f.a.b.5.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:42.542821 IP 192.168.202.200.53930 > 192.168.203.255.1534: UDP, length 8
+18:12:42.542876 IP dns.google.domain > aravind-thinkpad-e15-gen-4.40685: 40237 NXDomain 0/1/1 (165)
+18:12:42.542947 ARP, Request who-has 192.168.202.50 tell 192.168.202.71, length 46
+18:12:42.543287 IP aravind-thinkpad-e15-gen-4.40685 > dns.google.domain: 40237+ PTR? a.6.0.2.f.c.f.8.7.0.6.d.f.a.b.5.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:42.558043 IP dns.google.domain > aravind-thinkpad-e15-gen-4.40685: 40237 NXDomain 0/1/0 (154)
+18:12:42.560219 IP aravind-thinkpad-e15-gen-4.60990 > dns.google.domain: 8857+ [1au] PTR? 194.34.98.52.in-addr.arpa. (54)
+18:12:42.576689 IP dns.google.domain > aravind-thinkpad-e15-gen-4.60990: 8857 NXDomain 0/1/1 (140)
+18:12:42.577032 IP aravind-thinkpad-e15-gen-4.60990 > dns.google.domain: 8857+ PTR? 194.34.98.52.in-addr.arpa. (43)
+18:12:42.592459 IP dns.google.domain > aravind-thinkpad-e15-gen-4.60990: 8857 NXDomain 0/1/0 (129)
+18:12:42.593984 IP aravind-thinkpad-e15-gen-4.49445 > dns.google.domain: 50355+ [1au] PTR? 131.202.168.192.in-addr.arpa. (57)
+18:12:42.610718 IP dns.google.domain > aravind-thinkpad-e15-gen-4.49445: 50355 NXDomain 0/0/1 (57)
+18:12:42.611001 IP aravind-thinkpad-e15-gen-4.49445 > dns.google.domain: 50355+ PTR? 131.202.168.192.in-addr.arpa. (46)
+18:12:42.627782 IP dns.google.domain > aravind-thinkpad-e15-gen-4.49445: 50355 NXDomain 0/0/0 (46)
+18:12:42.629328 IP aravind-thinkpad-e15-gen-4.44245 > dns.google.domain: 20472+ [1au] PTR? 29.243.247.162.in-addr.arpa. (56)
+18:12:42.641508 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:12:42.645035 IP dns.google.domain > aravind-thinkpad-e15-gen-4.44245: 20472 NXDomain 0/1/1 (121)
+18:12:42.645396 IP aravind-thinkpad-e15-gen-4.44245 > dns.google.domain: 20472+ PTR? 29.243.247.162.in-addr.arpa. (45)
+18:12:42.662853 IP dns.google.domain > aravind-thinkpad-e15-gen-4.44245: 20472 NXDomain 0/1/0 (110)
+18:12:42.664572 IP aravind-thinkpad-e15-gen-4.53215 > dns.google.domain: 46381+ [1au] PTR? 207.202.168.192.in-addr.arpa. (57)
+18:12:42.679706 IP dns.google.domain > aravind-thinkpad-e15-gen-4.53215: 46381 NXDomain 0/0/1 (57)
+18:12:42.680023 IP aravind-thinkpad-e15-gen-4.53215 > dns.google.domain: 46381+ PTR? 207.202.168.192.in-addr.arpa. (46)
+18:12:42.696974 IP dns.google.domain > aravind-thinkpad-e15-gen-4.53215: 46381 NXDomain 0/0/0 (46)
+18:12:42.743285 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 7c:21:4a:43:d9:1a (oui Unknown), length 324
+18:12:42.847599 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? a.6.0.2.f.c.f.8.7.0.6.d.f.a.b.5.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:42.847635 ARP, Request who-has 192.168.203.244 tell 0.0.0.0, length 46
+18:12:42.847637 IP 192.168.202.207.64448 > mdns.mcast.net.mdns: 0 [2q] TXT (QM)? Mos-com-10818._nomachine._tcp.local. PTR (QM)? _nomachine._tcp.local. (59)
+18:12:42.847646 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QM)? a.6.0.2.f.c.f.8.7.0.6.d.f.a.b.5.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:42.847648 IP 192.168.203.244.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:42.847675 IP 192.168.203.244.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:42.847676 IP 192.168.203.244.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:42.947628 IP 192.168.202.207.mdns > mdns.mcast.net.mdns: 0*- [0q] 1/0/0 (Cache flush) TXT "name=Mos-com-10818" "uuid=f32c8e5d-6aa7-4d4f-92b8-e1ae9678aef4" "type=NoMachine" "port=0" "OS=Windows 11" "HW=LENOVO 21JNS0AY00" "mac=60:45:2e:b7:1b:9b" "service=nx:4000" "ip=10.15.61.52;192.168.202.207;192.168.137.1;fe80::16bc:6339:e948:d60e;fe80::f584:4c00:a8d1:9d37" (312)
+18:12:42.947629 IP 192.168.202.207.mdns > mdns.mcast.net.mdns: 0*- [0q] 1/0/0 PTR Mos-com-10818._nomachine._tcp.local. (61)
+18:12:43.050290 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:43.050297 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:43.152594 IP 192.168.202.71.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:43.152596 IP 192.168.202.71.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:43.152597 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticediscoveryservice.local. (48)
+18:12:43.152598 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticediscoveryservice.local. (48)
+18:12:43.254403 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:43.447320 IP aravind-thinkpad-e15-gen-4.45242 > dns.google.domain: 64185+ [1au] PTR? 200.202.168.192.in-addr.arpa. (57)
+18:12:43.461328 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:43.465315 IP dns.google.domain > aravind-thinkpad-e15-gen-4.45242: 64185 NXDomain 0/0/1 (57)
+18:12:43.465486 IP aravind-thinkpad-e15-gen-4.45242 > dns.google.domain: 64185+ PTR? 200.202.168.192.in-addr.arpa. (46)
+18:12:43.481737 IP dns.google.domain > aravind-thinkpad-e15-gen-4.45242: 64185 NXDomain 0/0/0 (46)
+18:12:43.485112 IP aravind-thinkpad-e15-gen-4.48875 > dns.google.domain: 15423+ [1au] PTR? 244.203.168.192.in-addr.arpa. (57)
+18:12:43.500053 IP dns.google.domain > aravind-thinkpad-e15-gen-4.48875: 15423 NXDomain 0/0/1 (57)
+18:12:43.500317 IP aravind-thinkpad-e15-gen-4.48875 > dns.google.domain: 15423+ PTR? 244.203.168.192.in-addr.arpa. (46)
+18:12:43.515026 IP dns.google.domain > aravind-thinkpad-e15-gen-4.48875: 15423 NXDomain 0/0/0 (46)
+18:12:43.515645 IP aravind-thinkpad-e15-gen-4.50108 > dns.google.domain: 55694+ [1au] PTR? c.b.4.f.4.2.3.4.0.3.b.0.5.f.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:43.551080 IP dns.google.domain > aravind-thinkpad-e15-gen-4.50108: 55694 NXDomain 0/1/1 (165)
+18:12:43.551413 IP aravind-thinkpad-e15-gen-4.50108 > dns.google.domain: 55694+ PTR? c.b.4.f.4.2.3.4.0.3.b.0.5.f.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:43.568086 IP 192.168.203.167.1534 > 192.168.203.255.1534: UDP, length 8
+18:12:43.568103 IP dns.google.domain > aravind-thinkpad-e15-gen-4.50108: 55694 NXDomain 0/1/0 (154)
+18:12:43.568105 ARP, Request who-has 192.168.202.50 tell 192.168.202.71, length 46
+18:12:43.568113 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:43.673827 ARP, Request who-has 192.168.203.244 (Broadcast) tell _gateway, length 46
+18:12:43.673832 IP 192.168.203.244.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:43.767296 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:43.798343 IP aravind-thinkpad-e15-gen-4.45126 > 40.126.17.132.https: Flags [.], ack 2629150527, win 501, length 0
+18:12:43.815721 IP 40.126.17.132.https > aravind-thinkpad-e15-gen-4.45126: Flags [.], ack 1, win 16385, length 0
+18:12:43.878515 IP6 fe80::6427:d338:3dab:b2dd.mdns > ff02::fb.mdns: 0 A (QM)? npic4b175.local. (33)
+18:12:43.878517 IP6 fe80::6427:d338:3dab:b2dd.mdns > ff02::fb.mdns: 0 AAAA (QM)? npic4b175.local. (33)
+18:12:43.972075 IP 192.168.202.155.mdns > mdns.mcast.net.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-9.local., (Cache flush) PTR Android-9.local., (Cache flush) A 192.168.202.155, (Cache flush) AAAA fe80::50c4:60ff:fe27:c075 (251)
+18:12:43.972104 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:44.073526 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:44.176287 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticediscoveryservice.local. (48)
+18:12:44.176289 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticedirectoryservice.local. (48)
+18:12:44.278795 IP 192.168.202.71.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:44.381726 IP 192.168.202.159.mdns > mdns.mcast.net.mdns: 12 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:12:44.381730 IP 192.168.203.244.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:44.471364 IP aravind-thinkpad-e15-gen-4.56173 > dns.google.domain: 14737+ [1au] PTR? 167.203.168.192.in-addr.arpa. (57)
+18:12:44.493110 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:44.493112 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:44.591153 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:44.591162 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:12:44.688584 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:44.894428 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 2644 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:12:44.894429 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 1244 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:12:44.894444 IP6 fe80::6427:d338:3dab:b2dd.mdns > ff02::fb.mdns: 0 A (QM)? npic4b175.local. (33)
+18:12:44.894444 IP6 fe80::6427:d338:3dab:b2dd.mdns > ff02::fb.mdns: 0 AAAA (QM)? npic4b175.local. (33)
+18:12:44.998131 IP 192.168.202.128.mdns > mdns.mcast.net.mdns: 0 ANY (QM)? Thrinadh.local. (32)
+18:12:44.998134 IP 192.168.202.128.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::9c2:4f08:69aa:cc9d, A 192.168.202.128 (70)
+18:12:44.998135 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:45.098035 IP6 fe80::9a45:a22e:2b7e:250c.mdns > ff02::fb.mdns: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+18:12:45.201046 IP 192.168.203.182.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+18:12:45.201086 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:45.303013 IP6 fe80::1ca8:20ff:fe50:2bc1.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-4.local., (Cache flush) PTR Android-4.local., (Cache flush) A 192.168.203.85, (Cache flush) AAAA fe80::1ca8:20ff:fe50:2bc1 (250)
+18:12:45.303017 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? c.0.5.2.e.7.b.2.e.2.2.a.5.4.a.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:45.404714 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? 7.a.4.e.1.6.8.1.4.f.0.9.6.8.9.a.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:45.404818 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QU)? 7.a.4.e.1.6.8.1.4.f.0.9.6.8.9.a.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:45.507989 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:45.529421 IP aravind-thinkpad-e15-gen-4.36658 > 162.247.243.29.https: Flags [P.], seq 275344875:275346185, ack 470349326, win 501, options [nop,nop,TS val 872963977 ecr 4013399776], length 1310
+18:12:45.535923 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [.], ack 1310, win 295, options [nop,nop,TS val 4013409642 ecr 872963977], length 0
+18:12:45.712914 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:45.816599 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [P.], seq 1:387, ack 1310, win 295, options [nop,nop,TS val 4013409898 ecr 872963977], length 386
+18:12:45.816647 IP 192.168.202.71.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:45.816658 IP aravind-thinkpad-e15-gen-4.36658 > 162.247.243.29.https: Flags [.], ack 387, win 501, options [nop,nop,TS val 872964264 ecr 4013409898], length 0
+18:12:45.918470 ARP, Request who-has 192.168.203.244 tell 192.168.203.244, length 46
+18:12:46.019849 IP 192.168.202.202.mdns > mdns.mcast.net.mdns: 42 [5q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. PTR (QM)? _44ED731B._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (142)
+18:12:46.019863 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:46.102463 IP aravind-thinkpad-e15-gen-4.47516 > 162.247.243.29.https: Flags [.], seq 2280089884:2280091292, ack 2571132725, win 501, options [nop,nop,TS val 872964550 ecr 803575035], length 1408
+18:12:46.131305 IP 192.168.203.225.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+18:12:46.131330 IP6 fe80::9a45:a22e:2b7e:250c.mdns > ff02::fb.mdns: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+18:12:46.224350 IP 192.168.203.182.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+18:12:46.224395 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:46.326272 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:12:46.428905 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:46.531359 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:46.531474 ARP, Request who-has 192.168.202.124 tell 192.168.202.5, length 46
+18:12:46.633625 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:12:46.735924 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:46.940939 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:47.043511 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:47.043527 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:47.147473 IP6 fe80::dc92:693f:2289:28ad.mdns > ff02::fb.mdns: 0 ANY (QM)? Mos-Com-11371.local. (37)
+18:12:47.147475 IP6 fe80::dc92:693f:2289:28ad.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 AAAA fe80::dc92:693f:2289:28ad, A 192.168.203.192 (75)
+18:12:47.248160 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:47.350543 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QU)? d.a.8.2.9.8.2.2.f.3.9.6.2.9.c.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:47.453170 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:47.555263 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:47.759968 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:47.862282 ARP, Request who-has 192.168.203.244 tell 192.168.203.244, length 46
+18:12:47.965037 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 861 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:12:48.067370 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:48.067380 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:48.272063 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:12:48.374427 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QM)? d.a.8.2.9.8.2.2.f.3.9.6.2.9.c.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:48.477073 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:48.477077 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:48.579749 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:12:48.579751 ARP, Request who-has 192.168.202.83 tell 192.168.203.63, length 28
+18:12:48.682210 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 520 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:12:48.682213 IP 192.168.202.198.netbios-dgm > 192.168.203.255.netbios-dgm: UDP, length 213
+18:12:48.785010 IP 192.168.202.198.netbios-dgm > 192.168.203.255.netbios-dgm: UDP, length 213
+18:12:48.989163 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:48.989166 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:49.091669 IP 192.168.202.80.netbios-dgm > 192.168.203.255.netbios-dgm: UDP, length 227
+18:12:49.193907 IP 192.168.203.22.mdns > mdns.mcast.net.mdns: 33 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:12:49.193918 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:49.476678 IP aravind-thinkpad-e15-gen-4.56173 > dns.google.domain: 14737+ [1au] PTR? 167.203.168.192.in-addr.arpa. (57)
+18:12:49.492022 IP dns.google.domain > aravind-thinkpad-e15-gen-4.56173: 14737 NXDomain 0/0/1 (57)
+18:12:49.492406 IP aravind-thinkpad-e15-gen-4.56173 > dns.google.domain: 14737+ PTR? 167.203.168.192.in-addr.arpa. (46)
+18:12:49.505563 IP 192.168.202.138.mdns > mdns.mcast.net.mdns: 0 A (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:49.505566 IP 192.168.202.138.mdns > mdns.mcast.net.mdns: 0 AAAA (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:49.505650 IP 192.168.202.77.mdns > mdns.mcast.net.mdns: 0 ANY (QM)? Mos-Com-10556.local. (37)
+18:12:49.505650 IP 192.168.202.77.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::30d:9edb:411d:582b, A 192.168.202.77 (75)
+18:12:49.505651 IP 192.168.202.77.mdns > mdns.mcast.net.mdns: 0 ANY (QM)? Mos-Com-10556.local. (37)
+18:12:49.505652 IP 192.168.202.77.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::30d:9edb:411d:582b, A 192.168.202.77 (75)
+18:12:49.505653 IP dns.google.domain > aravind-thinkpad-e15-gen-4.56173: 14737 NXDomain 0/0/0 (46)
+18:12:49.507533 IP aravind-thinkpad-e15-gen-4.35395 > dns.google.domain: 35727+ [1au] PTR? 132.17.126.40.in-addr.arpa. (55)
+18:12:49.541803 IP dns.google.domain > aravind-thinkpad-e15-gen-4.35395: 35727 NXDomain 0/1/1 (141)
+18:12:49.542160 IP aravind-thinkpad-e15-gen-4.35395 > dns.google.domain: 35727+ PTR? 132.17.126.40.in-addr.arpa. (44)
+18:12:49.557126 IP dns.google.domain > aravind-thinkpad-e15-gen-4.35395: 35727 NXDomain 0/1/0 (130)
+18:12:49.558742 IP aravind-thinkpad-e15-gen-4.39703 > dns.google.domain: 61778+ [1au] PTR? 155.202.168.192.in-addr.arpa. (57)
+18:12:49.573206 IP dns.google.domain > aravind-thinkpad-e15-gen-4.39703: 61778 NXDomain 0/0/1 (57)
+18:12:49.573322 IP aravind-thinkpad-e15-gen-4.39703 > dns.google.domain: 61778+ PTR? 155.202.168.192.in-addr.arpa. (46)
+18:12:49.587253 IP dns.google.domain > aravind-thinkpad-e15-gen-4.39703: 61778 NXDomain 0/0/0 (46)
+18:12:49.588159 IP aravind-thinkpad-e15-gen-4.37397 > dns.google.domain: 40510+ [1au] PTR? 159.202.168.192.in-addr.arpa. (57)
+18:12:49.604900 IP dns.google.domain > aravind-thinkpad-e15-gen-4.37397: 40510 NXDomain 0/0/1 (57)
+18:12:49.604906 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:49.605137 IP aravind-thinkpad-e15-gen-4.37397 > dns.google.domain: 40510+ PTR? 159.202.168.192.in-addr.arpa. (46)
+18:12:49.620142 IP dns.google.domain > aravind-thinkpad-e15-gen-4.37397: 40510 NXDomain 0/0/0 (46)
+18:12:49.621776 IP aravind-thinkpad-e15-gen-4.37348 > dns.google.domain: 53056+ [1au] PTR? 128.202.168.192.in-addr.arpa. (57)
+18:12:49.637411 IP dns.google.domain > aravind-thinkpad-e15-gen-4.37348: 53056 NXDomain 0/0/1 (57)
+18:12:49.637689 IP aravind-thinkpad-e15-gen-4.37348 > dns.google.domain: 53056+ PTR? 128.202.168.192.in-addr.arpa. (46)
+18:12:49.653442 IP dns.google.domain > aravind-thinkpad-e15-gen-4.37348: 53056 NXDomain 0/0/0 (46)
+18:12:49.654825 IP aravind-thinkpad-e15-gen-4.41585 > dns.google.domain: 35410+ [1au] PTR? c.0.5.2.e.7.b.2.e.2.2.a.5.4.a.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:49.688183 IP dns.google.domain > aravind-thinkpad-e15-gen-4.41585: 35410 NXDomain 0/1/1 (165)
+18:12:49.688584 IP aravind-thinkpad-e15-gen-4.41585 > dns.google.domain: 35410+ PTR? c.0.5.2.e.7.b.2.e.2.2.a.5.4.a.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:49.703832 IP dns.google.domain > aravind-thinkpad-e15-gen-4.41585: 35410 NXDomain 0/1/0 (154)
+18:12:49.705322 IP aravind-thinkpad-e15-gen-4.38384 > dns.google.domain: 25046+ [1au] PTR? 182.203.168.192.in-addr.arpa. (57)
+18:12:49.705561 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? b.2.8.5.d.1.1.4.b.d.e.9.d.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:49.705612 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QU)? b.2.8.5.d.1.1.4.b.d.e.9.d.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:49.706844 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:49.725887 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38384: 25046 NXDomain 0/0/1 (57)
+18:12:49.726153 IP aravind-thinkpad-e15-gen-4.38384 > dns.google.domain: 25046+ PTR? 182.203.168.192.in-addr.arpa. (46)
+18:12:49.744816 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38384: 25046 NXDomain 0/0/0 (46)
+18:12:49.745751 IP aravind-thinkpad-e15-gen-4.44255 > dns.google.domain: 34955+ [1au] PTR? 1.c.b.2.0.5.e.f.f.f.0.2.8.a.c.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:49.778048 IP dns.google.domain > aravind-thinkpad-e15-gen-4.44255: 34955 NXDomain 0/1/1 (165)
+18:12:49.778451 IP aravind-thinkpad-e15-gen-4.44255 > dns.google.domain: 34955+ PTR? 1.c.b.2.0.5.e.f.f.f.0.2.8.a.c.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:49.815874 IP dns.google.domain > aravind-thinkpad-e15-gen-4.44255: 34955 NXDomain 0/1/0 (154)
+18:12:49.817559 IP aravind-thinkpad-e15-gen-4.47779 > dns.google.domain: 15251+ [1au] PTR? 202.202.168.192.in-addr.arpa. (57)
+18:12:49.831537 IP dns.google.domain > aravind-thinkpad-e15-gen-4.47779: 15251 NXDomain 0/0/1 (57)
+18:12:49.831816 IP aravind-thinkpad-e15-gen-4.47779 > dns.google.domain: 15251+ PTR? 202.202.168.192.in-addr.arpa. (46)
+18:12:49.845394 IP dns.google.domain > aravind-thinkpad-e15-gen-4.47779: 15251 NXDomain 0/0/0 (46)
+18:12:49.846499 IP aravind-thinkpad-e15-gen-4.46126 > dns.google.domain: 11714+ [1au] PTR? 225.203.168.192.in-addr.arpa. (57)
+18:12:49.861020 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46126: 11714 NXDomain 0/0/1 (57)
+18:12:49.861269 IP aravind-thinkpad-e15-gen-4.46126 > dns.google.domain: 11714+ PTR? 225.203.168.192.in-addr.arpa. (46)
+18:12:49.875806 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46126: 11714 NXDomain 0/0/0 (46)
+18:12:49.877459 IP aravind-thinkpad-e15-gen-4.56652 > dns.google.domain: 38132+ [1au] PTR? d.a.8.2.9.8.2.2.f.3.9.6.2.9.c.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:49.911369 IP 192.168.202.138.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:49.911407 IP dns.google.domain > aravind-thinkpad-e15-gen-4.56652: 38132 NXDomain 0/1/1 (165)
+18:12:49.911681 IP aravind-thinkpad-e15-gen-4.56652 > dns.google.domain: 38132+ PTR? d.a.8.2.9.8.2.2.f.3.9.6.2.9.c.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:49.926339 IP dns.google.domain > aravind-thinkpad-e15-gen-4.56652: 38132 NXDomain 0/1/0 (154)
+18:12:49.927378 IP aravind-thinkpad-e15-gen-4.42702 > dns.google.domain: 61258+ [1au] PTR? 83.202.168.192.in-addr.arpa. (56)
+18:12:49.940887 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42702: 61258 NXDomain 0/0/1 (56)
+18:12:49.941087 IP aravind-thinkpad-e15-gen-4.42702 > dns.google.domain: 61258+ PTR? 83.202.168.192.in-addr.arpa. (45)
+18:12:49.955058 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42702: 61258 NXDomain 0/0/0 (45)
+18:12:49.955765 IP aravind-thinkpad-e15-gen-4.35294 > dns.google.domain: 63825+ [1au] PTR? 63.203.168.192.in-addr.arpa. (56)
+18:12:49.975139 IP dns.google.domain > aravind-thinkpad-e15-gen-4.35294: 63825 NXDomain 0/0/1 (56)
+18:12:49.975265 IP aravind-thinkpad-e15-gen-4.35294 > dns.google.domain: 63825+ PTR? 63.203.168.192.in-addr.arpa. (45)
+18:12:49.994038 IP dns.google.domain > aravind-thinkpad-e15-gen-4.35294: 63825 NXDomain 0/0/0 (45)
+18:12:49.994528 IP aravind-thinkpad-e15-gen-4.49916 > dns.google.domain: 722+ [1au] PTR? 198.202.168.192.in-addr.arpa. (57)
+18:12:50.009395 IP dns.google.domain > aravind-thinkpad-e15-gen-4.49916: 722 NXDomain 0/0/1 (57)
+18:12:50.009716 IP aravind-thinkpad-e15-gen-4.49916 > dns.google.domain: 722+ PTR? 198.202.168.192.in-addr.arpa. (46)
+18:12:50.022636 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:50.024876 IP dns.google.domain > aravind-thinkpad-e15-gen-4.49916: 722 NXDomain 0/0/0 (46)
+18:12:50.026522 IP aravind-thinkpad-e15-gen-4.38786 > dns.google.domain: 3861+ [1au] PTR? 80.202.168.192.in-addr.arpa. (56)
+18:12:50.041043 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38786: 3861 NXDomain 0/0/1 (56)
+18:12:50.041333 IP aravind-thinkpad-e15-gen-4.38786 > dns.google.domain: 3861+ PTR? 80.202.168.192.in-addr.arpa. (45)
+18:12:50.055156 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38786: 3861 NXDomain 0/0/0 (45)
+18:12:50.056604 IP aravind-thinkpad-e15-gen-4.48264 > dns.google.domain: 12191+ [1au] PTR? 22.203.168.192.in-addr.arpa. (56)
+18:12:50.078187 IP dns.google.domain > aravind-thinkpad-e15-gen-4.48264: 12191 NXDomain 0/0/1 (56)
+18:12:50.078678 IP aravind-thinkpad-e15-gen-4.48264 > dns.google.domain: 12191+ PTR? 22.203.168.192.in-addr.arpa. (45)
+18:12:50.099514 IP dns.google.domain > aravind-thinkpad-e15-gen-4.48264: 12191 NXDomain 0/0/0 (45)
+18:12:50.100766 IP aravind-thinkpad-e15-gen-4.50259 > dns.google.domain: 38825+ [1au] PTR? 77.202.168.192.in-addr.arpa. (56)
+18:12:50.115038 IP dns.google.domain > aravind-thinkpad-e15-gen-4.50259: 38825 NXDomain 0/0/1 (56)
+18:12:50.115265 IP aravind-thinkpad-e15-gen-4.50259 > dns.google.domain: 38825+ PTR? 77.202.168.192.in-addr.arpa. (45)
+18:12:50.129137 IP dns.google.domain > aravind-thinkpad-e15-gen-4.50259: 38825 NXDomain 0/0/0 (45)
+18:12:50.198517 IP aravind-thinkpad-e15-gen-4.49948 > 162.247.243.29.https: Flags [.], seq 3592641670:3592643078, ack 4206832206, win 501, options [nop,nop,TS val 872968646 ecr 3752549320], length 1408
+18:12:50.227501 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:50.320137 ARP, Request who-has 192.168.202.83 tell 192.168.203.22, length 46
+18:12:50.320138 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:12:50.422438 IP 192.168.202.247.mdns > mdns.mcast.net.mdns: 1 [3q] PTR (QU)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QU)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QU)? _googlecast._tcp.local. (110)
+18:12:50.422557 ARP, Request who-has 192.168.202.83 tell 192.168.203.63, length 28
+18:12:50.525704 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:50.525704 IP 192.168.202.138.mdns > mdns.mcast.net.mdns: 0 A (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:50.530578 IP aravind-thinkpad-e15-gen-4.39528 > 52.182.141.63.https: Flags [P.], seq 1435820483:1435820522, ack 2590447312, win 501, options [nop,nop,TS val 2020898404 ecr 849897824], length 39
+18:12:50.615863 IP aravind-thinkpad-e15-gen-4.44415 > dns.google.domain: 52568+ [1au] PTR? 63.141.182.52.in-addr.arpa. (55)
+18:12:50.629908 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 4368 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:12:50.629910 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 11215 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:12:50.649750 IP dns.google.domain > aravind-thinkpad-e15-gen-4.44415: 52568 NXDomain 0/1/1 (129)
+18:12:50.649952 IP aravind-thinkpad-e15-gen-4.44415 > dns.google.domain: 52568+ PTR? 63.141.182.52.in-addr.arpa. (44)
+18:12:50.665844 IP dns.google.domain > aravind-thinkpad-e15-gen-4.44415: 52568 NXDomain 0/1/0 (118)
+18:12:50.732490 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? b.2.8.5.d.1.1.4.b.d.e.9.d.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:50.732565 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QM)? b.2.8.5.d.1.1.4.b.d.e.9.d.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:50.732609 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:50.732624 IP 192.168.202.198.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:50.732626 IP 192.168.202.198.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:50.732626 IP 192.168.202.198.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:50.833595 IP 52.182.141.63.https > aravind-thinkpad-e15-gen-4.39528: Flags [P.], seq 1:40, ack 39, win 16385, options [nop,nop,TS val 849956417 ecr 2020898404], length 39
+18:12:50.833654 IP aravind-thinkpad-e15-gen-4.39528 > 52.182.141.63.https: Flags [.], ack 40, win 501, options [nop,nop,TS val 2020898707 ecr 849956417], length 0
+18:12:51.042449 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:51.042452 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:51.241698 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:51.344110 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? d.a.8.2.9.8.2.2.f.3.9.6.2.9.c.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:51.344133 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QM)? d.a.8.2.9.8.2.2.f.3.9.6.2.9.c.d.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:51.446559 IP 192.168.202.138.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:51.446650 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:51.549002 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:51.549064 ARP, Request who-has 192.168.202.50 tell 192.168.202.71, length 46
+18:12:51.652655 IP 52.98.34.194.https > aravind-thinkpad-e15-gen-4.46662: Flags [P.], seq 1556:1597, ack 2626, win 16386, options [nop,nop,TS val 408540094 ecr 1397661798], length 41
+18:12:51.652671 IP aravind-thinkpad-e15-gen-4.46662 > 52.98.34.194.https: Flags [.], ack 1597, win 1363, options [nop,nop,TS val 1397671319 ecr 408540094], length 0
+18:12:51.755329 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:51.958385 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:52.061145 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:52.061164 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:52.265832 IP 192.168.203.75.mdns > mdns.mcast.net.mdns: 24 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:12:52.265833 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:52.368108 IP 192.168.202.247.mdns > mdns.mcast.net.mdns: 3 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:12:52.471437 IP 192.168.202.198.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:52.471439 IP 192.168.202.198.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:52.471440 IP 192.168.202.198.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:52.471440 IP 192.168.202.198.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:52.471440 IP 192.168.202.198.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 68
+18:12:52.471441 IP 192.168.202.163.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 44:e5:17:48:d0:7d (oui Unknown), length 300
+18:12:52.573788 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:52.573790 IP 192.168.202.41.mdns > mdns.mcast.net.mdns: 9 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:12:52.573844 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:12:52.663227 IP aravind-thinkpad-e15-gen-4.38753 > dns.google.domain: 55126+ [1au] PTR? 75.203.168.192.in-addr.arpa. (56)
+18:12:52.676996 IP 192.168.202.89.mdns > mdns.mcast.net.mdns: 5 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:12:52.679037 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38753: 55126 NXDomain 0/0/1 (56)
+18:12:52.679300 IP aravind-thinkpad-e15-gen-4.38753 > dns.google.domain: 55126+ PTR? 75.203.168.192.in-addr.arpa. (45)
+18:12:52.693051 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38753: 55126 NXDomain 0/0/0 (45)
+18:12:52.694395 IP aravind-thinkpad-e15-gen-4.55290 > dns.google.domain: 62215+ [1au] PTR? 163.202.168.192.in-addr.arpa. (57)
+18:12:52.708946 IP dns.google.domain > aravind-thinkpad-e15-gen-4.55290: 62215 NXDomain 0/0/1 (57)
+18:12:52.709160 IP aravind-thinkpad-e15-gen-4.55290 > dns.google.domain: 62215+ PTR? 163.202.168.192.in-addr.arpa. (46)
+18:12:52.723091 IP dns.google.domain > aravind-thinkpad-e15-gen-4.55290: 62215 NXDomain 0/0/0 (46)
+18:12:52.724589 IP aravind-thinkpad-e15-gen-4.56809 > dns.google.domain: 56916+ [1au] PTR? 41.202.168.192.in-addr.arpa. (56)
+18:12:52.743096 IP dns.google.domain > aravind-thinkpad-e15-gen-4.56809: 56916 NXDomain 0/0/1 (56)
+18:12:52.743407 IP aravind-thinkpad-e15-gen-4.56809 > dns.google.domain: 56916+ PTR? 41.202.168.192.in-addr.arpa. (45)
+18:12:52.762456 IP dns.google.domain > aravind-thinkpad-e15-gen-4.56809: 56916 NXDomain 0/0/0 (45)
+18:12:52.779544 IP 192.168.202.200.1534 > 192.168.203.255.1534: UDP, length 8
+18:12:52.880439 ARP, Request who-has _gateway tell 0.0.0.0, length 46
+18:12:52.880441 ARP, Request who-has _gateway tell 192.168.203.112, length 46
+18:12:52.982619 ARP, Request who-has _gateway tell 0.0.0.0, length 46
+18:12:52.982620 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:53.085532 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:53.085654 ARP, Request who-has _gateway tell 0.0.0.0, length 46
+18:12:53.190410 IP 192.168.202.200.64757 > 192.168.203.255.1534: UDP, length 8
+18:12:53.190417 ARP, Request who-has 192.168.203.244 tell 192.168.203.154, length 46
+18:12:53.190418 ARP, Request who-has 192.168.203.244 tell 192.168.203.212, length 46
+18:12:53.190418 ARP, Request who-has 192.168.203.244 tell 192.168.203.193, length 46
+18:12:53.190418 ARP, Request who-has 192.168.203.244 tell 192.168.202.152, length 46
+18:12:53.190418 ARP, Request who-has 192.168.203.244 tell 192.168.202.206, length 46
+18:12:53.190419 ARP, Request who-has 192.168.203.244 tell 192.168.202.128, length 28
+18:12:53.190419 ARP, Request who-has 192.168.203.244 tell 192.168.202.102, length 28
+18:12:53.190419 ARP, Request who-has 192.168.203.244 tell 192.168.203.79, length 46
+18:12:53.190450 ARP, Request who-has 192.168.203.244 tell 192.168.203.133, length 28
+18:12:53.190450 ARP, Request who-has 192.168.203.244 tell 192.168.203.63, length 28
+18:12:53.190450 ARP, Request who-has 192.168.203.244 tell 192.168.202.184, length 46
+18:12:53.190451 ARP, Request who-has 192.168.203.244 tell 192.168.203.105, length 46
+18:12:53.190451 ARP, Request who-has 192.168.203.244 tell 192.168.202.200, length 46
+18:12:53.190451 ARP, Request who-has 192.168.203.244 tell 192.168.203.220, length 46
+18:12:53.190452 ARP, Request who-has 192.168.203.244 tell 192.168.202.181, length 46
+18:12:53.190452 ARP, Request who-has 192.168.203.244 tell 192.168.202.16, length 46
+18:12:53.190469 ARP, Request who-has 192.168.203.244 tell 192.168.202.27, length 46
+18:12:53.190469 ARP, Request who-has 192.168.203.244 tell 192.168.203.28, length 46
+18:12:53.190469 ARP, Request who-has 192.168.203.244 tell 192.168.203.237, length 46
+18:12:53.190470 ARP, Request who-has 192.168.203.244 tell 192.168.202.136, length 46
+18:12:53.190470 ARP, Request who-has 192.168.203.244 tell 192.168.202.223, length 46
+18:12:53.290466 ARP, Request who-has 192.168.203.244 tell 192.168.202.21, length 28
+18:12:53.290467 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:53.290469 ARP, Request who-has 192.168.203.244 tell 192.168.203.165, length 28
+18:12:53.290469 ARP, Request who-has 192.168.203.244 tell 192.168.203.102, length 28
+18:12:53.290469 ARP, Request who-has 192.168.203.244 tell 192.168.202.154, length 46
+18:12:53.392137 ARP, Request who-has 192.168.203.244 tell 192.168.202.146, length 46
+18:12:53.494906 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:53.494906 ARP, Request who-has 192.168.202.134 tell 192.168.203.212, length 46
+18:12:53.494908 ARP, Request who-has _gateway (Broadcast) tell 192.168.202.202, length 46
+18:12:53.494909 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:53.597283 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:53.597312 IP6 fe80::9a4:b828:eda3:858d.mdns > ff02::fb.mdns: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+18:12:53.686842 IP aravind-thinkpad-e15-gen-4.52967 > dns.google.domain: 58002+ [1au] PTR? 89.202.168.192.in-addr.arpa. (56)
+18:12:53.701118 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 [2q] PTR (QM)? b.2.8.5.d.1.1.4.b.d.e.9.d.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QU)? d.8.5.8.3.a.d.e.8.2.8.b.4.a.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (126)
+18:12:53.701138 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? b.2.8.5.d.1.1.4.b.d.e.9.d.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QU)? d.8.5.8.3.a.d.e.8.2.8.b.4.a.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (126)
+18:12:53.708256 IP dns.google.domain > aravind-thinkpad-e15-gen-4.52967: 58002 NXDomain 0/0/1 (56)
+18:12:53.708327 IP aravind-thinkpad-e15-gen-4.52967 > dns.google.domain: 58002+ PTR? 89.202.168.192.in-addr.arpa. (45)
+18:12:53.727691 IP dns.google.domain > aravind-thinkpad-e15-gen-4.52967: 58002 NXDomain 0/0/0 (45)
+18:12:53.728262 IP aravind-thinkpad-e15-gen-4.38638 > dns.google.domain: 57050+ [1au] PTR? 112.203.168.192.in-addr.arpa. (57)
+18:12:53.742800 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38638: 57050 NXDomain 0/0/1 (57)
+18:12:53.742870 IP aravind-thinkpad-e15-gen-4.38638 > dns.google.domain: 57050+ PTR? 112.203.168.192.in-addr.arpa. (46)
+18:12:53.757852 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38638: 57050 NXDomain 0/0/0 (46)
+18:12:53.758176 IP aravind-thinkpad-e15-gen-4.43796 > dns.google.domain: 36936+ [1au] PTR? 154.203.168.192.in-addr.arpa. (57)
+18:12:53.772620 IP dns.google.domain > aravind-thinkpad-e15-gen-4.43796: 36936 NXDomain 0/0/1 (57)
+18:12:53.772700 IP aravind-thinkpad-e15-gen-4.43796 > dns.google.domain: 36936+ PTR? 154.203.168.192.in-addr.arpa. (46)
+18:12:53.786503 IP dns.google.domain > aravind-thinkpad-e15-gen-4.43796: 36936 NXDomain 0/0/0 (46)
+18:12:53.786874 IP aravind-thinkpad-e15-gen-4.34373 > dns.google.domain: 19729+ [1au] PTR? 212.203.168.192.in-addr.arpa. (57)
+18:12:53.802510 IP dns.google.domain > aravind-thinkpad-e15-gen-4.34373: 19729 NXDomain 0/0/1 (57)
+18:12:53.802511 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:53.802591 IP aravind-thinkpad-e15-gen-4.34373 > dns.google.domain: 19729+ PTR? 212.203.168.192.in-addr.arpa. (46)
+18:12:53.817802 IP dns.google.domain > aravind-thinkpad-e15-gen-4.34373: 19729 NXDomain 0/0/0 (46)
+18:12:53.818482 IP aravind-thinkpad-e15-gen-4.45013 > dns.google.domain: 59832+ [1au] PTR? 193.203.168.192.in-addr.arpa. (57)
+18:12:53.834027 IP dns.google.domain > aravind-thinkpad-e15-gen-4.45013: 59832 NXDomain 0/0/1 (57)
+18:12:53.834126 IP aravind-thinkpad-e15-gen-4.45013 > dns.google.domain: 59832+ PTR? 193.203.168.192.in-addr.arpa. (46)
+18:12:53.849803 IP dns.google.domain > aravind-thinkpad-e15-gen-4.45013: 59832 NXDomain 0/0/0 (46)
+18:12:53.850203 IP aravind-thinkpad-e15-gen-4.49602 > dns.google.domain: 10812+ [1au] PTR? 152.202.168.192.in-addr.arpa. (57)
+18:12:53.865738 IP dns.google.domain > aravind-thinkpad-e15-gen-4.49602: 10812 NXDomain 0/0/1 (57)
+18:12:53.865836 IP aravind-thinkpad-e15-gen-4.49602 > dns.google.domain: 10812+ PTR? 152.202.168.192.in-addr.arpa. (46)
+18:12:53.880403 IP dns.google.domain > aravind-thinkpad-e15-gen-4.49602: 10812 NXDomain 0/0/0 (46)
+18:12:53.880970 IP aravind-thinkpad-e15-gen-4.35661 > dns.google.domain: 25376+ [1au] PTR? 206.202.168.192.in-addr.arpa. (57)
+18:12:53.896477 IP dns.google.domain > aravind-thinkpad-e15-gen-4.35661: 25376 NXDomain 0/0/1 (57)
+18:12:53.896535 IP aravind-thinkpad-e15-gen-4.35661 > dns.google.domain: 25376+ PTR? 206.202.168.192.in-addr.arpa. (46)
+18:12:53.905919 IP 192.168.203.244.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:53.911776 IP dns.google.domain > aravind-thinkpad-e15-gen-4.35661: 25376 NXDomain 0/0/0 (46)
+18:12:53.912428 IP aravind-thinkpad-e15-gen-4.45102 > dns.google.domain: 4472+ [1au] PTR? 102.202.168.192.in-addr.arpa. (57)
+18:12:53.926438 IP dns.google.domain > aravind-thinkpad-e15-gen-4.45102: 4472 NXDomain 0/0/1 (57)
+18:12:53.926607 IP aravind-thinkpad-e15-gen-4.45102 > dns.google.domain: 4472+ PTR? 102.202.168.192.in-addr.arpa. (46)
+18:12:53.940801 IP dns.google.domain > aravind-thinkpad-e15-gen-4.45102: 4472 NXDomain 0/0/0 (46)
+18:12:53.941379 IP aravind-thinkpad-e15-gen-4.49246 > dns.google.domain: 47747+ [1au] PTR? 79.203.168.192.in-addr.arpa. (56)
+18:12:53.956165 IP dns.google.domain > aravind-thinkpad-e15-gen-4.49246: 47747 NXDomain 0/0/1 (56)
+18:12:53.956298 IP aravind-thinkpad-e15-gen-4.49246 > dns.google.domain: 47747+ PTR? 79.203.168.192.in-addr.arpa. (45)
+18:12:53.970930 IP dns.google.domain > aravind-thinkpad-e15-gen-4.49246: 47747 NXDomain 0/0/0 (45)
+18:12:53.972020 IP aravind-thinkpad-e15-gen-4.47255 > dns.google.domain: 29192+ [1au] PTR? 133.203.168.192.in-addr.arpa. (57)
+18:12:53.988206 IP dns.google.domain > aravind-thinkpad-e15-gen-4.47255: 29192 NXDomain 0/0/1 (57)
+18:12:53.988420 IP aravind-thinkpad-e15-gen-4.47255 > dns.google.domain: 29192+ PTR? 133.203.168.192.in-addr.arpa. (46)
+18:12:54.004589 IP dns.google.domain > aravind-thinkpad-e15-gen-4.47255: 29192 NXDomain 0/0/0 (46)
+18:12:54.005843 IP aravind-thinkpad-e15-gen-4.34693 > dns.google.domain: 2544+ [1au] PTR? 184.202.168.192.in-addr.arpa. (57)
+18:12:54.005993 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:54.016678 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:54.020281 IP dns.google.domain > aravind-thinkpad-e15-gen-4.34693: 2544 NXDomain 0/0/1 (57)
+18:12:54.020463 IP aravind-thinkpad-e15-gen-4.34693 > dns.google.domain: 2544+ PTR? 184.202.168.192.in-addr.arpa. (46)
+18:12:54.035415 IP dns.google.domain > aravind-thinkpad-e15-gen-4.34693: 2544 NXDomain 0/0/0 (46)
+18:12:54.036403 IP aravind-thinkpad-e15-gen-4.38949 > dns.google.domain: 7399+ [1au] PTR? 105.203.168.192.in-addr.arpa. (57)
+18:12:54.038429 IP aravind-thinkpad-e15-gen-4.45126 > 40.126.17.132.https: Flags [.], ack 1, win 501, length 0
+18:12:54.051384 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38949: 7399 NXDomain 0/0/1 (57)
+18:12:54.051583 IP aravind-thinkpad-e15-gen-4.38949 > dns.google.domain: 7399+ PTR? 105.203.168.192.in-addr.arpa. (46)
+18:12:54.053479 IP 40.126.17.132.https > aravind-thinkpad-e15-gen-4.45126: Flags [.], ack 1, win 16385, length 0
+18:12:54.066362 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38949: 7399 NXDomain 0/0/0 (46)
+18:12:54.067503 IP aravind-thinkpad-e15-gen-4.46341 > dns.google.domain: 1558+ [1au] PTR? 220.203.168.192.in-addr.arpa. (57)
+18:12:54.082048 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46341: 1558 NXDomain 0/0/1 (57)
+18:12:54.082382 IP aravind-thinkpad-e15-gen-4.46341 > dns.google.domain: 1558+ PTR? 220.203.168.192.in-addr.arpa. (46)
+18:12:54.095784 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46341: 1558 NXDomain 0/0/0 (46)
+18:12:54.096815 IP aravind-thinkpad-e15-gen-4.36232 > dns.google.domain: 53450+ [1au] PTR? 181.202.168.192.in-addr.arpa. (57)
+18:12:54.110831 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:54.112181 IP dns.google.domain > aravind-thinkpad-e15-gen-4.36232: 53450 NXDomain 0/0/1 (57)
+18:12:54.112406 IP aravind-thinkpad-e15-gen-4.36232 > dns.google.domain: 53450+ PTR? 181.202.168.192.in-addr.arpa. (46)
+18:12:54.128391 IP dns.google.domain > aravind-thinkpad-e15-gen-4.36232: 53450 NXDomain 0/0/0 (46)
+18:12:54.130284 IP aravind-thinkpad-e15-gen-4.39219 > dns.google.domain: 39352+ [1au] PTR? 16.202.168.192.in-addr.arpa. (56)
+18:12:54.149041 IP dns.google.domain > aravind-thinkpad-e15-gen-4.39219: 39352 NXDomain 0/0/1 (56)
+18:12:54.149379 IP aravind-thinkpad-e15-gen-4.39219 > dns.google.domain: 39352+ PTR? 16.202.168.192.in-addr.arpa. (45)
+18:12:54.164552 IP dns.google.domain > aravind-thinkpad-e15-gen-4.39219: 39352 NXDomain 0/0/0 (45)
+18:12:54.165861 IP aravind-thinkpad-e15-gen-4.52996 > dns.google.domain: 33633+ [1au] PTR? 27.202.168.192.in-addr.arpa. (56)
+18:12:54.185362 IP dns.google.domain > aravind-thinkpad-e15-gen-4.52996: 33633 NXDomain 0/0/1 (56)
+18:12:54.185517 IP aravind-thinkpad-e15-gen-4.52996 > dns.google.domain: 33633+ PTR? 27.202.168.192.in-addr.arpa. (45)
+18:12:54.204934 IP dns.google.domain > aravind-thinkpad-e15-gen-4.52996: 33633 NXDomain 0/0/0 (45)
+18:12:54.206578 IP aravind-thinkpad-e15-gen-4.42713 > dns.google.domain: 29980+ [1au] PTR? 28.203.168.192.in-addr.arpa. (56)
+18:12:54.212887 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:54.221537 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42713: 29980 NXDomain 0/0/1 (56)
+18:12:54.221701 IP aravind-thinkpad-e15-gen-4.42713 > dns.google.domain: 29980+ PTR? 28.203.168.192.in-addr.arpa. (45)
+18:12:54.236043 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42713: 29980 NXDomain 0/0/0 (45)
+18:12:54.237415 IP aravind-thinkpad-e15-gen-4.34745 > dns.google.domain: 43638+ [1au] PTR? 237.203.168.192.in-addr.arpa. (57)
+18:12:54.252889 IP dns.google.domain > aravind-thinkpad-e15-gen-4.34745: 43638 NXDomain 0/0/1 (57)
+18:12:54.253064 IP aravind-thinkpad-e15-gen-4.34745 > dns.google.domain: 43638+ PTR? 237.203.168.192.in-addr.arpa. (46)
+18:12:54.268256 IP dns.google.domain > aravind-thinkpad-e15-gen-4.34745: 43638 NXDomain 0/0/0 (46)
+18:12:54.269324 IP aravind-thinkpad-e15-gen-4.42294 > dns.google.domain: 18971+ [1au] PTR? 136.202.168.192.in-addr.arpa. (57)
+18:12:54.283638 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42294: 18971 NXDomain 0/0/1 (57)
+18:12:54.283951 IP aravind-thinkpad-e15-gen-4.42294 > dns.google.domain: 18971+ PTR? 136.202.168.192.in-addr.arpa. (46)
+18:12:54.297694 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42294: 18971 NXDomain 0/0/0 (46)
+18:12:54.298742 IP aravind-thinkpad-e15-gen-4.34243 > dns.google.domain: 50204+ [1au] PTR? 223.202.168.192.in-addr.arpa. (57)
+18:12:54.314530 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 810 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:12:54.314574 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:12:54.314838 IP dns.google.domain > aravind-thinkpad-e15-gen-4.34243: 50204 NXDomain 0/0/1 (57)
+18:12:54.315102 IP aravind-thinkpad-e15-gen-4.34243 > dns.google.domain: 50204+ PTR? 223.202.168.192.in-addr.arpa. (46)
+18:12:54.329915 IP dns.google.domain > aravind-thinkpad-e15-gen-4.34243: 50204 NXDomain 0/0/0 (46)
+18:12:54.331193 IP aravind-thinkpad-e15-gen-4.46142 > dns.google.domain: 52565+ [1au] PTR? 21.202.168.192.in-addr.arpa. (56)
+18:12:54.345956 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46142: 52565 NXDomain 0/0/1 (56)
+18:12:54.346275 IP aravind-thinkpad-e15-gen-4.46142 > dns.google.domain: 52565+ PTR? 21.202.168.192.in-addr.arpa. (45)
+18:12:54.360610 IP dns.google.domain > aravind-thinkpad-e15-gen-4.46142: 52565 NXDomain 0/0/0 (45)
+18:12:54.361605 IP aravind-thinkpad-e15-gen-4.47739 > dns.google.domain: 39950+ [1au] PTR? 165.203.168.192.in-addr.arpa. (57)
+18:12:54.377620 IP dns.google.domain > aravind-thinkpad-e15-gen-4.47739: 39950 NXDomain 0/0/1 (57)
+18:12:54.377989 IP aravind-thinkpad-e15-gen-4.47739 > dns.google.domain: 39950+ PTR? 165.203.168.192.in-addr.arpa. (46)
+18:12:54.393884 IP dns.google.domain > aravind-thinkpad-e15-gen-4.47739: 39950 NXDomain 0/0/0 (46)
+18:12:54.394271 IP aravind-thinkpad-e15-gen-4.42222 > dns.google.domain: 64642+ [1au] PTR? 102.203.168.192.in-addr.arpa. (57)
+18:12:54.407764 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42222: 64642 NXDomain 0/0/1 (57)
+18:12:54.408010 IP aravind-thinkpad-e15-gen-4.42222 > dns.google.domain: 64642+ PTR? 102.203.168.192.in-addr.arpa. (46)
+18:12:54.421284 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 2919 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:12:54.421285 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42222: 64642 NXDomain 0/0/0 (46)
+18:12:54.422388 IP aravind-thinkpad-e15-gen-4.47116 > dns.google.domain: 55803+ [1au] PTR? 154.202.168.192.in-addr.arpa. (57)
+18:12:54.436234 IP dns.google.domain > aravind-thinkpad-e15-gen-4.47116: 55803 NXDomain 0/0/1 (57)
+18:12:54.436541 IP aravind-thinkpad-e15-gen-4.47116 > dns.google.domain: 55803+ PTR? 154.202.168.192.in-addr.arpa. (46)
+18:12:54.449877 IP dns.google.domain > aravind-thinkpad-e15-gen-4.47116: 55803 NXDomain 0/0/0 (46)
+18:12:54.451577 IP aravind-thinkpad-e15-gen-4.50337 > dns.google.domain: 25792+ [1au] PTR? 146.202.168.192.in-addr.arpa. (57)
+18:12:54.465930 IP dns.google.domain > aravind-thinkpad-e15-gen-4.50337: 25792 NXDomain 0/0/1 (57)
+18:12:54.466256 IP aravind-thinkpad-e15-gen-4.50337 > dns.google.domain: 25792+ PTR? 146.202.168.192.in-addr.arpa. (46)
+18:12:54.480983 IP dns.google.domain > aravind-thinkpad-e15-gen-4.50337: 25792 NXDomain 0/0/0 (46)
+18:12:54.481976 IP aravind-thinkpad-e15-gen-4.37446 > dns.google.domain: 35830+ [1au] PTR? 134.202.168.192.in-addr.arpa. (57)
+18:12:54.497247 IP dns.google.domain > aravind-thinkpad-e15-gen-4.37446: 35830 NXDomain 0/0/1 (57)
+18:12:54.497440 IP aravind-thinkpad-e15-gen-4.37446 > dns.google.domain: 35830+ PTR? 134.202.168.192.in-addr.arpa. (46)
+18:12:54.512222 IP dns.google.domain > aravind-thinkpad-e15-gen-4.37446: 35830 NXDomain 0/0/0 (46)
+18:12:54.513801 IP aravind-thinkpad-e15-gen-4.50453 > dns.google.domain: 58417+ [1au] PTR? d.8.5.8.3.a.d.e.8.2.8.b.4.a.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:54.528160 ARP, Request who-has 192.168.202.134 tell 192.168.203.212, length 46
+18:12:54.528161 ARP, Request who-has 192.168.203.145 tell 192.168.203.105, length 46
+18:12:54.528163 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:54.553472 IP dns.google.domain > aravind-thinkpad-e15-gen-4.50453: 58417 NXDomain 0/1/1 (165)
+18:12:54.553895 IP aravind-thinkpad-e15-gen-4.50453 > dns.google.domain: 58417+ PTR? d.8.5.8.3.a.d.e.8.2.8.b.4.a.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:54.598992 IP dns.google.domain > aravind-thinkpad-e15-gen-4.50453: 58417 NXDomain 0/1/0 (154)
+18:12:54.623525 IP6 fe80::9a4:b828:eda3:858d.mdns > ff02::fb.mdns: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+18:12:54.623549 ARP, Request who-has 192.168.202.108 (Broadcast) tell 192.168.202.108, length 50
+18:12:54.712316 IP aravind-thinkpad-e15-gen-4.57420 > dns.google.domain: 32898+ [1au] PTR? 145.203.168.192.in-addr.arpa. (57)
+18:12:54.726420 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Sureshs-iPhone.local., (Cache flush) PTR Sureshs-iPhone.local. (221)
+18:12:54.726438 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:54.727320 IP dns.google.domain > aravind-thinkpad-e15-gen-4.57420: 32898 NXDomain 0/0/1 (57)
+18:12:54.727569 IP aravind-thinkpad-e15-gen-4.57420 > dns.google.domain: 32898+ PTR? 145.203.168.192.in-addr.arpa. (46)
+18:12:54.728766 IP aravind-thinkpad-e15-gen-4.52560 > 52.123.173.174.https: Flags [P.], seq 4127008027:4127008085, ack 3665694005, win 501, length 58
+18:12:54.741631 IP dns.google.domain > aravind-thinkpad-e15-gen-4.57420: 32898 NXDomain 0/0/0 (46)
+18:12:54.743142 IP aravind-thinkpad-e15-gen-4.43242 > dns.google.domain: 17135+ [1au] PTR? 108.202.168.192.in-addr.arpa. (57)
+18:12:54.760060 IP dns.google.domain > aravind-thinkpad-e15-gen-4.43242: 17135 NXDomain 0/0/1 (57)
+18:12:54.760256 IP aravind-thinkpad-e15-gen-4.43242 > dns.google.domain: 17135+ PTR? 108.202.168.192.in-addr.arpa. (46)
+18:12:54.775256 IP dns.google.domain > aravind-thinkpad-e15-gen-4.43242: 17135 NXDomain 0/0/0 (46)
+18:12:54.840670 IP 52.123.173.174.https > aravind-thinkpad-e15-gen-4.52560: Flags [P.], seq 1:48, ack 58, win 2047, length 47
+18:12:54.840700 IP aravind-thinkpad-e15-gen-4.52560 > 52.123.173.174.https: Flags [.], ack 48, win 501, length 0
+18:12:54.929900 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0 [3q] [1au] PTR (QU)? _companion-link._tcp.local. PTR (QU)? lb._dns-sd._udp.local. PTR (QU)? _sleep-proxy._udp.local. (114)
+18:12:55.036046 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:55.036049 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:55.133289 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:55.235534 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QU)? SureshM-bM-^@M-^Ys iPhone._rdlink._tcp.local. ANY (QU)? Sureshs-iPhone.local. (168)
+18:12:55.235556 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:55.337699 IP 192.168.203.244.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:55.543694 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? SureshM-bM-^@M-^Ys iPhone._rdlink._tcp.local. ANY (QM)? Sureshs-iPhone.local. (168)
+18:12:55.543720 ARP, Request who-has 192.168.202.134 tell 192.168.203.212, length 46
+18:12:55.543722 IP 192.168.202.19.mdns > mdns.mcast.net.mdns: 60 [4q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _DD19D71D._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (126)
+18:12:55.543729 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:55.645274 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:55.735663 IP aravind-thinkpad-e15-gen-4.55018 > dns.google.domain: 17527+ [1au] PTR? 2.6.8.6.0.e.9.2.1.9.8.2.c.d.c.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:55.748490 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? SureshM-bM-^@M-^Ys iPhone._rdlink._tcp.local. ANY (QM)? Sureshs-iPhone.local. (168)
+18:12:55.748504 IP 192.168.203.167.55562 > 192.168.203.255.1534: UDP, length 8
+18:12:55.748506 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:55.771111 IP dns.google.domain > aravind-thinkpad-e15-gen-4.55018: 17527 NXDomain 0/1/1 (165)
+18:12:55.771379 IP aravind-thinkpad-e15-gen-4.55018 > dns.google.domain: 17527+ PTR? 2.6.8.6.0.e.9.2.1.9.8.2.c.d.c.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:55.786086 IP dns.google.domain > aravind-thinkpad-e15-gen-4.55018: 17527 NXDomain 0/1/0 (154)
+18:12:55.788219 IP aravind-thinkpad-e15-gen-4.59215 > dns.google.domain: 53018+ [1au] PTR? 19.202.168.192.in-addr.arpa. (56)
+18:12:55.802901 IP dns.google.domain > aravind-thinkpad-e15-gen-4.59215: 53018 NXDomain 0/0/1 (56)
+18:12:55.803120 IP aravind-thinkpad-e15-gen-4.59215 > dns.google.domain: 53018+ PTR? 19.202.168.192.in-addr.arpa. (45)
+18:12:55.818199 IP dns.google.domain > aravind-thinkpad-e15-gen-4.59215: 53018 NXDomain 0/0/0 (45)
+18:12:55.818345 IP aravind-thinkpad-e15-gen-4.36658 > 162.247.243.29.https: Flags [.], ack 387, win 501, options [nop,nop,TS val 872974266 ecr 4013409898], length 0
+18:12:55.822294 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [.], ack 1310, win 295, options [nop,nop,TS val 4013419929 ecr 872964264], length 0
+18:12:55.851579 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Sureshs-iPhone.local., (Cache flush) PTR Sureshs-iPhone.local. (221)
+18:12:55.952738 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0 [3q] [1au] PTR (QM)? _companion-link._tcp.local. PTR (QM)? lb._dns-sd._udp.local. PTR (QM)? _sleep-proxy._udp.local. (114)
+18:12:55.952762 ARP, Request who-has 192.168.202.83 tell 192.168.203.182, length 46
+18:12:56.055748 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=3A:50:AF:9E:B0:6A" "rpVr=440.10" "rpAD=4541291a7ed3", PTR _rdlink._tcp.local., PTR SureshM-bM-^@M-^Ys iPhone._rdlink._tcp.local., TXT "model=N104AP", (Cache flush) SRV Sureshs-iPhone.local.:49159 0 0, (Cache flush) AAAA fe80::1cdc:2891:29e0:6862, (Cache flush) A 192.168.202.108 (369)
+18:12:56.159116 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 [2q] PTR (QU)? a.a.9.4.d.2.d.d.f.a.7.9.9.0.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QU)? b.a.c.2.1.f.6.3.0.8.a.a.8.4.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (128)
+18:12:56.259523 IP 192.168.202.200.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:56.259536 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:56.361694 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:12:56.464118 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:56.566897 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:56.566968 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:56.648181 IP aravind-thinkpad-e15-gen-4.36658 > 162.247.243.29.https: Flags [P.], seq 1310:2324, ack 387, win 501, options [nop,nop,TS val 872975095 ecr 4013419929], length 1014
+18:12:56.653865 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [.], ack 2324, win 300, options [nop,nop,TS val 4013420760 ecr 872975095], length 0
+18:12:56.678644 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:12:56.726654 IP 52.182.141.63.https > aravind-thinkpad-e15-gen-4.39528: Flags [R.], seq 40, ack 39, win 0, length 0
+18:12:56.771678 ARP, Request who-has 192.168.202.83 tell 192.168.203.182, length 46
+18:12:56.874151 IP6 fe80::f688:d381:dbd5:3c86.mdns > ff02::fb.mdns: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+18:12:56.874154 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? 6.8.c.3.5.d.b.d.1.8.3.d.8.8.6.f.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:56.978383 IP6 fe80::2209:97af:dd2d:49aa.mdns > ff02::fb.mdns: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+18:12:56.978386 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [P.], seq 387:773, ack 2324, win 300, options [nop,nop,TS val 4013421028 ecr 872975095], length 386
+18:12:56.978402 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:56.978458 IP aravind-thinkpad-e15-gen-4.36658 > 162.247.243.29.https: Flags [.], ack 773, win 501, options [nop,nop,TS val 872975426 ecr 4013421028], length 0
+18:12:57.080492 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:57.182243 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 [2q] PTR (QM)? a.a.9.4.d.2.d.d.f.a.7.9.9.0.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? b.a.c.2.1.f.6.3.0.8.a.a.8.4.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (128)
+18:12:57.283336 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:57.488281 IP 192.168.202.200.64758 > 192.168.203.255.1534: UDP, length 8
+18:12:57.488283 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:57.591676 IP 192.168.203.244.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+18:12:57.591677 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:57.692938 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 [2q] PTR (QM)? d.8.5.8.3.a.d.e.8.2.8.b.4.a.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? 6.8.c.3.5.d.b.d.1.8.3.d.8.8.6.f.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (128)
+18:12:57.692980 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? d.8.5.8.3.a.d.e.8.2.8.b.4.a.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? 6.8.c.3.5.d.b.d.1.8.3.d.8.8.6.f.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (128)
+18:12:57.783555 IP aravind-thinkpad-e15-gen-4.51877 > dns.google.domain: 10618+ [1au] PTR? 6.8.c.3.5.d.b.d.1.8.3.d.8.8.6.f.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:57.797276 IP 192.168.203.244.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+18:12:57.797365 IP6 fe80::f688:d381:dbd5:3c86.mdns > ff02::fb.mdns: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+18:12:57.818619 IP dns.google.domain > aravind-thinkpad-e15-gen-4.51877: 10618 NXDomain 0/1/1 (165)
+18:12:57.818740 IP aravind-thinkpad-e15-gen-4.51877 > dns.google.domain: 10618+ PTR? 6.8.c.3.5.d.b.d.1.8.3.d.8.8.6.f.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:57.850923 IP dns.google.domain > aravind-thinkpad-e15-gen-4.51877: 10618 NXDomain 0/1/0 (154)
+18:12:57.852668 IP aravind-thinkpad-e15-gen-4.60991 > dns.google.domain: 62236+ [1au] PTR? a.a.9.4.d.2.d.d.f.a.7.9.9.0.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:57.891656 IP dns.google.domain > aravind-thinkpad-e15-gen-4.60991: 62236 NXDomain 0/1/1 (165)
+18:12:57.891958 IP aravind-thinkpad-e15-gen-4.60991 > dns.google.domain: 62236+ PTR? a.a.9.4.d.2.d.d.f.a.7.9.9.0.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:57.907379 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Sureshs-iPhone.local., (Cache flush) PTR Sureshs-iPhone.local. (221)
+18:12:57.930771 IP dns.google.domain > aravind-thinkpad-e15-gen-4.60991: 62236 NXDomain 0/1/0 (154)
+18:12:58.002066 IP 192.168.202.200.53930 > 192.168.203.255.1534: UDP, length 8
+18:12:58.002086 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:58.104483 IP 192.168.202.69.mdns > mdns.mcast.net.mdns: 0 ANY (QM)? PC-CND2245BB4.local. (37)
+18:12:58.104485 IP 192.168.202.69.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::36e3:cbac:ff68:fc4b, A 192.168.202.69 (75)
+18:12:58.104521 IP6 fe80::36e3:cbac:ff68:fc4b.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 AAAA fe80::36e3:cbac:ff68:fc4b, A 192.168.202.69 (75)
+18:12:58.307868 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? b.4.c.f.8.6.f.f.c.a.b.c.3.e.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:58.307911 ARP, Request who-has _gateway tell 192.168.202.131, length 46
+18:12:58.307913 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:12:58.410773 IP6 fe80::14c1:1b87:24f6:5af6.mdns > ff02::fb.mdns: 0 [9a] [20q] [2n] [1au] PTR (QU)? lb._dns-sd._udp.local. PTR (QU)? _uscan._tcp.local. PTR (QU)? _uscans._tcp.local. PTR (QU)? _ippusb._tcp.local. PTR (QU)? _scanner._tcp.local. PTR (QU)? _ipp._tcp.local. PTR (QU)? _ipps._tcp.local. PTR (QU)? _printer._tcp.local. PTR (QU)? _pdl-datastream._tcp.local. PTR (QU)? _ptp._tcp.local. PTR (QU)? _airport._tcp.local. PTR (QU)? _rdlink._tcp.local. PTR (QU)? _homekit._tcp.local. PTR (QU)? _googlecast._tcp.local. PTR (QU)? _apple-mobdev._tcp.local. PTR (QU)? 8d8207d5._sub._apple-mobdev2._tcp.local. PTR (QU)? _apple-pairable._tcp.local. PTR (QU)? _companion-link._tcp.local. ANY (QU)? GiriM-bM-^@M-^Ys MacBook Pro._rfb._tcp.local. ANY (QU)? GiriM-bM-^@M-^Ys MacBook Pro._companion-link._tcp.local. (861)
+18:12:58.410775 IP6 fe80::14c1:1b87:24f6:5af6.mdns > ff02::fb.mdns: 0*- [0q] 3/0/1 PTR _rfb._tcp.local., TXT "model=MacBookPro14,1" "osxvers=22" "ecolor=157,157,160", TXT "LKDC:SHA1.45EDA3CEA281B817A56A989947055178E75E8326" (275)
+18:12:58.513467 IP6 fe80::f688:d381:dbd5:3c86.mdns > ff02::fb.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+18:12:58.513470 IP6 fe80::f688:d381:dbd5:3c86.mdns > ff02::fb.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+18:12:58.513507 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:58.614620 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:58.614687 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:12:58.717185 IP6 fe80::14c1:1b87:24f6:5af6.mdns > ff02::fb.mdns: 0 [2q] [2n] [1au] ANY (QM)? GiriM-bM-^@M-^Ys MacBook Pro._rfb._tcp.local. ANY (QM)? GiriM-bM-^@M-^Ys MacBook Pro._companion-link._tcp.local. (178)
+18:12:58.717190 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:58.807453 IP aravind-thinkpad-e15-gen-4.42947 > dns.google.domain: 34725+ [1au] PTR? 69.202.168.192.in-addr.arpa. (56)
+18:12:58.825176 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42947: 34725 NXDomain 0/0/1 (56)
+18:12:58.825362 IP aravind-thinkpad-e15-gen-4.42947 > dns.google.domain: 34725+ PTR? 69.202.168.192.in-addr.arpa. (45)
+18:12:58.840786 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42947: 34725 NXDomain 0/0/0 (45)
+18:12:58.841708 IP aravind-thinkpad-e15-gen-4.51291 > dns.google.domain: 1864+ [1au] PTR? b.4.c.f.8.6.f.f.c.a.b.c.3.e.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:58.877892 IP dns.google.domain > aravind-thinkpad-e15-gen-4.51291: 1864 NXDomain 0/1/1 (165)
+18:12:58.878058 IP aravind-thinkpad-e15-gen-4.51291 > dns.google.domain: 1864+ PTR? b.4.c.f.8.6.f.f.c.a.b.c.3.e.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:58.916405 IP dns.google.domain > aravind-thinkpad-e15-gen-4.51291: 1864 NXDomain 0/1/0 (154)
+18:12:58.918536 IP aravind-thinkpad-e15-gen-4.38636 > dns.google.domain: 7153+ [1au] PTR? 6.f.a.5.6.f.4.2.7.8.b.1.1.c.4.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:12:58.925572 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0 [3q] [1au] PTR (QM)? _companion-link._tcp.local. PTR (QM)? lb._dns-sd._udp.local. PTR (QM)? _sleep-proxy._udp.local. (114)
+18:12:58.950727 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38636: 7153 NXDomain 0/1/1 (165)
+18:12:58.951065 IP aravind-thinkpad-e15-gen-4.38636 > dns.google.domain: 7153+ PTR? 6.f.a.5.6.f.4.2.7.8.b.1.1.c.4.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:58.982811 IP dns.google.domain > aravind-thinkpad-e15-gen-4.38636: 7153 NXDomain 0/1/0 (154)
+18:12:59.033708 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QU)? 5.7.7.1.4.a.d.4.5.b.1.d.1.9.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:59.033760 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:59.033762 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:59.127300 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=3A:50:AF:9E:B0:6A" "rpVr=440.10" "rpAD=4541291a7ed3", PTR _rdlink._tcp.local., PTR SureshM-bM-^@M-^Ys iPhone._rdlink._tcp.local., TXT "model=N104AP", (Cache flush) SRV Sureshs-iPhone.local.:49159 0 0, (Cache flush) AAAA fe80::1cdc:2891:29e0:6862, (Cache flush) A 192.168.202.108 (369)
+18:12:59.127331 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticediscoveryservice.local. (48)
+18:12:59.229379 IP6 fe80::14c1:1b87:24f6:5af6.mdns > ff02::fb.mdns: 0*- [0q] 8/0/6 (Cache flush) TXT "", PTR GiriM-bM-^@M-^Ys MacBook Pro._rfb._tcp.local., TXT "model=MacBookPro14,1" "osxvers=22" "ecolor=157,157,160", (Cache flush) SRV Giris-MacBook-Pro.local.:5900 0 0, (Cache flush) TXT "rpBA=7A:58:BE:FA:71:62" "rpAD=a1e61dd6422f" "rpFl=0x20000" "rpHN=b6c979b7bbbc" "rpMac=0" "rpVr=440.10", PTR _companion-link._tcp.local., PTR GiriM-bM-^@M-^Ys MacBook Pro._companion-link._tcp.local., (Cache flush) SRV Giris-MacBook-Pro.local.:49642 0 0 (551)
+18:12:59.229437 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:59.332095 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? b.4.c.f.8.6.f.f.c.a.b.c.3.e.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:59.332129 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QM)? b.4.c.f.8.6.f.f.c.a.b.c.3.e.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:12:59.332130 IP 192.168.202.173.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:12:59.434786 IP6 fe80::14c1:1b87:24f6:5af6.mdns > ff02::fb.mdns: 0*- [0q] 2/0/1 PTR _rfb._tcp.local., TXT "LKDC:SHA1.45EDA3CEA281B817A56A989947055178E75E8326" (178)
+18:12:59.434789 IP6 fe80::14c1:1b87:24f6:5af6.mdns > ff02::fb.mdns: 0 [8a] [15q] [1au] PTR (QM)? _uscan._tcp.local. PTR (QM)? _uscans._tcp.local. PTR (QM)? _ippusb._tcp.local. PTR (QM)? _scanner._tcp.local. PTR (QM)? _ipp._tcp.local. PTR (QM)? _ipps._tcp.local. PTR (QM)? _printer._tcp.local. PTR (QM)? _pdl-datastream._tcp.local. PTR (QM)? _ptp._tcp.local. PTR (QM)? _airport._tcp.local. PTR (QM)? _rdlink._tcp.local. PTR (QM)? _homekit._tcp.local. PTR (QM)? _apple-mobdev._tcp.local. PTR (QM)? 8d8207d5._sub._apple-mobdev2._tcp.local. PTR (QM)? _apple-pairable._tcp.local. (668)
+18:12:59.434874 IP6 fe80::1cdc:2891:29e0:6862.mdns > ff02::fb.mdns: 0 [2q] [1au] PTR (QU)? _airplay._tcp.local. PTR (QU)? _raop._tcp.local. (78)
+18:12:59.536480 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:12:59.536481 ARP, Request who-has 192.168.202.134 tell 192.168.203.212, length 46
+18:12:59.536483 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:12:59.638550 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:12:59.679736 IP aravind-thinkpad-e15-gen-4.36658 > 162.247.243.29.https: Flags [P.], seq 2324:6907, ack 773, win 501, options [nop,nop,TS val 872978127 ecr 4013421028], length 4583
+18:12:59.685458 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [.], ack 3732, win 306, options [nop,nop,TS val 4013423792 ecr 872978127], length 0
+18:12:59.685460 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [.], ack 5140, win 311, options [nop,nop,TS val 4013423792 ecr 872978127], length 0
+18:12:59.685461 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [.], ack 6548, win 317, options [nop,nop,TS val 4013423792 ecr 872978127], length 0
+18:12:59.685461 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [.], ack 6907, win 322, options [nop,nop,TS val 4013423792 ecr 872978127], length 0
+18:12:59.742527 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:12:59.831642 IP aravind-thinkpad-e15-gen-4.55882 > dns.google.domain: 37040+ [1au] PTR? 173.202.168.192.in-addr.arpa. (57)
+18:12:59.846216 IP 192.168.202.173.mdns > mdns.mcast.net.mdns: 0 A (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:59.846219 IP 192.168.202.173.mdns > mdns.mcast.net.mdns: 0 AAAA (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:59.846219 IP 192.168.202.173.mdns > mdns.mcast.net.mdns: 0 AAAA (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:59.846232 IP6 fe80::1991:d1b5:4da4:1775.mdns > ff02::fb.mdns: 0 A (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:59.846234 IP6 fe80::1991:d1b5:4da4:1775.mdns > ff02::fb.mdns: 0 AAAA (QM)? WIN-DMD7GGVAOEU.local. (39)
+18:12:59.848388 IP dns.google.domain > aravind-thinkpad-e15-gen-4.55882: 37040 NXDomain 0/0/1 (57)
+18:12:59.848554 IP aravind-thinkpad-e15-gen-4.55882 > dns.google.domain: 37040+ PTR? 173.202.168.192.in-addr.arpa. (46)
+18:12:59.864518 IP dns.google.domain > aravind-thinkpad-e15-gen-4.55882: 37040 NXDomain 0/0/0 (46)
+18:12:59.934383 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [P.], seq 773:1152, ack 6907, win 322, options [nop,nop,TS val 4013424041 ecr 872978127], length 379
+18:12:59.934414 IP aravind-thinkpad-e15-gen-4.36658 > 162.247.243.29.https: Flags [.], ack 1152, win 501, options [nop,nop,TS val 872978382 ecr 4013424041], length 0
+18:12:59.947572 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QM)? 5.7.7.1.4.a.d.4.5.b.1.d.1.9.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:00.048882 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:00.151191 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 [3q] PTR (QM)? a.a.9.4.d.2.d.d.f.a.7.9.9.0.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? b.a.c.2.1.f.6.3.0.8.a.a.8.4.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? 6.8.c.3.5.d.b.d.1.8.3.d.8.8.6.f.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (166)
+18:13:00.151225 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 [3q] PTR (QM)? a.a.9.4.d.2.d.d.f.a.7.9.9.0.2.2.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? b.a.c.2.1.f.6.3.0.8.a.a.8.4.2.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? 6.8.c.3.5.d.b.d.1.8.3.d.8.8.6.f.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (166)
+18:13:00.252785 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:00.356025 IP6 fe80::14c1:1b87:24f6:5af6.mdns > ff02::fb.mdns: 0*- [0q] 8/0/6 (Cache flush) TXT "", PTR GiriM-bM-^@M-^Ys MacBook Pro._rfb._tcp.local., TXT "model=MacBookPro14,1" "osxvers=22" "ecolor=157,157,160", (Cache flush) SRV Giris-MacBook-Pro.local.:5900 0 0, (Cache flush) TXT "rpBA=7A:58:BE:FA:71:62" "rpAD=a1e61dd6422f" "rpFl=0x20000" "rpHN=b6c979b7bbbc" "rpMac=0" "rpVr=440.10", PTR _companion-link._tcp.local., PTR GiriM-bM-^@M-^Ys MacBook Pro._companion-link._tcp.local., (Cache flush) SRV Giris-MacBook-Pro.local.:49642 0 0 (551)
+18:13:00.356025 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticedirectoryservice.local. (48)
+18:13:00.457987 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:00.457988 ARP, Request who-has _gateway (Broadcast) tell 192.168.202.247, length 28
+18:13:00.561321 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 868 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:13:00.561330 IP 192.168.203.244.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+18:13:00.662471 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:00.662515 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:13:00.765200 IP 192.168.202.173.netbios-ns > 192.168.203.255.netbios-ns: UDP, length 50
+18:13:00.859782 IP aravind-thinkpad-e15-gen-4.42799 > dns.google.domain: 46530+ [1au] PTR? 5.7.7.1.4.a.d.4.5.b.1.d.1.9.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:13:00.899583 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42799: 46530 NXDomain 0/1/1 (165)
+18:13:00.899786 IP aravind-thinkpad-e15-gen-4.42799 > dns.google.domain: 46530+ PTR? 5.7.7.1.4.a.d.4.5.b.1.d.1.9.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:00.920020 IP dns.google.domain > aravind-thinkpad-e15-gen-4.42799: 46530 NXDomain 0/1/0 (154)
+18:13:01.075526 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:01.276838 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:01.379090 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticedirectoryservice.local. (48)
+18:13:01.481994 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:01.481994 ARP, Request who-has 192.168.202.134 tell 192.168.203.212, length 46
+18:13:01.585570 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:01.585578 IP6 fe80::14c1:1b87:24f6:5af6.mdns > ff02::fb.mdns: 0*- [0q] 10/0/6 (Cache flush) TXT "", PTR _rfb._tcp.local., PTR GiriM-bM-^@M-^Ys MacBook Pro._rfb._tcp.local., TXT "model=MacBookPro14,1" "osxvers=22" "ecolor=157,157,160", (Cache flush) SRV Giris-MacBook-Pro.local.:5900 0 0, TXT "LKDC:SHA1.45EDA3CEA281B817A56A989947055178E75E8326", (Cache flush) TXT "rpBA=7A:58:BE:FA:71:62" "rpAD=a1e61dd6422f" "rpFl=0x20000" "rpHN=b6c979b7bbbc" "rpMac=0" "rpVr=440.10", PTR _companion-link._tcp.local., PTR GiriM-bM-^@M-^Ys MacBook Pro._companion-link._tcp.local., (Cache flush) SRV Giris-MacBook-Pro.local.:49642 0 0 (638)
+18:13:01.585582 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:01.686715 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticediscoveryservice.local. (48)
+18:13:01.686718 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticediscoveryservice.local. (48)
+18:13:01.789034 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:01.892470 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 381 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:13:01.995001 IP 192.168.202.244.mdns > mdns.mcast.net.mdns: 0 [1a] [4q] PTR (QU)? _companion-link._tcp.local. PTR (QU)? _rdlink._tcp.local. PTR (QU)? lb._dns-sd._udp.local. PTR (QU)? _sleep-proxy._udp.local. (131)
+18:13:01.995029 IP6 fe80::4a8:47e9:771:953b.mdns > ff02::fb.mdns: 0 [1a] [4q] PTR (QU)? _companion-link._tcp.local. PTR (QU)? _rdlink._tcp.local. PTR (QU)? lb._dns-sd._udp.local. PTR (QU)? _sleep-proxy._udp.local. (131)
+18:13:02.096571 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:02.198670 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QU)? b.3.5.9.1.7.7.0.9.e.7.4.8.a.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:02.301309 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 [2q] PTR (QM)? b.4.c.f.8.6.f.f.c.a.b.c.3.e.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? 5.7.7.1.4.a.d.4.5.b.1.d.1.9.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (128)
+18:13:02.301344 ARP, Request who-has 192.168.202.139 tell 192.168.203.182, length 46
+18:13:02.301345 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? b.4.c.f.8.6.f.f.c.a.b.c.3.e.6.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? 5.7.7.1.4.a.d.4.5.b.1.d.1.9.9.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (128)
+18:13:02.403483 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:13:02.403492 IP 192.168.202.5.mdns > mdns.mcast.net.mdns: 4 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:13:02.505762 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:02.609554 IP6 fe80::14c1:1b87:24f6:5af6.mdns > ff02::fb.mdns: 0 [8a] [15q] [1au] PTR (QM)? _uscan._tcp.local. PTR (QM)? _uscans._tcp.local. PTR (QM)? _ippusb._tcp.local. PTR (QM)? _scanner._tcp.local. PTR (QM)? _ipp._tcp.local. PTR (QM)? _ipps._tcp.local. PTR (QM)? _printer._tcp.local. PTR (QM)? _pdl-datastream._tcp.local. PTR (QM)? _ptp._tcp.local. PTR (QM)? _airport._tcp.local. PTR (QM)? _rdlink._tcp.local. PTR (QM)? _homekit._tcp.local. PTR (QM)? _apple-mobdev._tcp.local. PTR (QM)? 8d8207d5._sub._apple-mobdev2._tcp.local. PTR (QM)? _apple-pairable._tcp.local. (668)
+18:13:02.609556 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:02.609559 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:13:02.710674 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticediscoveryservice.local. (48)
+18:13:02.710675 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticedirectoryservice.local. (48)
+18:13:02.813488 ARP, Request who-has 192.168.203.217 tell 192.168.203.182, length 46
+18:13:02.813489 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:02.903353 IP aravind-thinkpad-e15-gen-4.57272 > dns.google.domain: 48403+ [1au] PTR? 244.202.168.192.in-addr.arpa. (57)
+18:13:02.918979 IP dns.google.domain > aravind-thinkpad-e15-gen-4.57272: 48403 NXDomain 0/0/1 (57)
+18:13:02.919204 IP aravind-thinkpad-e15-gen-4.57272 > dns.google.domain: 48403+ PTR? 244.202.168.192.in-addr.arpa. (46)
+18:13:02.933772 IP dns.google.domain > aravind-thinkpad-e15-gen-4.57272: 48403 NXDomain 0/0/0 (46)
+18:13:02.935352 IP aravind-thinkpad-e15-gen-4.58391 > dns.google.domain: 29655+ [1au] PTR? b.3.5.9.1.7.7.0.9.e.7.4.8.a.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:13:02.965984 IP dns.google.domain > aravind-thinkpad-e15-gen-4.58391: 29655 NXDomain 0/1/1 (165)
+18:13:02.966359 IP aravind-thinkpad-e15-gen-4.58391 > dns.google.domain: 29655+ PTR? b.3.5.9.1.7.7.0.9.e.7.4.8.a.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:03.000773 IP dns.google.domain > aravind-thinkpad-e15-gen-4.58391: 29655 NXDomain 0/1/0 (154)
+18:13:03.002627 IP aravind-thinkpad-e15-gen-4.33123 > dns.google.domain: 43070+ [1au] PTR? 139.202.168.192.in-addr.arpa. (57)
+18:13:03.022141 IP 192.168.202.244.mdns > mdns.mcast.net.mdns: 0 [3q] PTR (QM)? _companion-link._tcp.local. PTR (QM)? lb._dns-sd._udp.local. PTR (QM)? _sleep-proxy._udp.local. (85)
+18:13:03.022142 IP dns.google.domain > aravind-thinkpad-e15-gen-4.33123: 43070 NXDomain 0/0/1 (57)
+18:13:03.022171 IP6 fe80::4a8:47e9:771:953b.mdns > ff02::fb.mdns: 0 [3q] PTR (QM)? _companion-link._tcp.local. PTR (QM)? lb._dns-sd._udp.local. PTR (QM)? _sleep-proxy._udp.local. (85)
+18:13:03.022422 IP aravind-thinkpad-e15-gen-4.33123 > dns.google.domain: 43070+ PTR? 139.202.168.192.in-addr.arpa. (46)
+18:13:03.041894 IP dns.google.domain > aravind-thinkpad-e15-gen-4.33123: 43070 NXDomain 0/0/0 (46)
+18:13:03.042450 IP aravind-thinkpad-e15-gen-4.58521 > dns.google.domain: 11259+ [1au] PTR? 217.203.168.192.in-addr.arpa. (57)
+18:13:03.057272 IP dns.google.domain > aravind-thinkpad-e15-gen-4.58521: 11259 NXDomain 0/0/1 (57)
+18:13:03.057430 IP aravind-thinkpad-e15-gen-4.58521 > dns.google.domain: 11259+ PTR? 217.203.168.192.in-addr.arpa. (46)
+18:13:03.072496 IP dns.google.domain > aravind-thinkpad-e15-gen-4.58521: 11259 NXDomain 0/0/0 (46)
+18:13:03.129793 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? b.3.5.9.1.7.7.0.9.e.7.4.8.a.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:03.223972 IP6 fe80::6a59:c5f5:89a5:fb1f.mdns > ff02::fb.mdns: 0 ANY (QM)? Mos-Com-10191.local. (37)
+18:13:03.223976 IP 192.168.203.193.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::6a59:c5f5:89a5:fb1f, A 192.168.203.193 (75)
+18:13:03.223976 IP6 fe80::6a59:c5f5:89a5:fb1f.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 AAAA fe80::6a59:c5f5:89a5:fb1f, A 192.168.203.193 (75)
+18:13:03.325133 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? f.1.b.f.5.a.9.8.5.f.5.c.9.5.a.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:03.325173 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QU)? f.1.b.f.5.a.9.8.5.f.5.c.9.5.a.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:03.530595 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:03.530598 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:03.632339 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:03.734807 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:03.836788 ARP, Request who-has 192.168.203.217 tell 192.168.203.182, length 46
+18:13:03.928082 IP aravind-thinkpad-e15-gen-4.45136 > dns.google.domain: 15180+ [1au] PTR? f.1.b.f.5.a.9.8.5.f.5.c.9.5.a.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:13:03.962237 IP dns.google.domain > aravind-thinkpad-e15-gen-4.45136: 15180 NXDomain 0/1/1 (165)
+18:13:03.962484 IP aravind-thinkpad-e15-gen-4.45136 > dns.google.domain: 15180+ PTR? f.1.b.f.5.a.9.8.5.f.5.c.9.5.a.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:04.001755 IP dns.google.domain > aravind-thinkpad-e15-gen-4.45136: 15180 NXDomain 0/1/0 (154)
+18:13:04.043768 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:04.043771 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:04.144336 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:04.246427 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:04.278498 IP aravind-thinkpad-e15-gen-4.45126 > 40.126.17.132.https: Flags [.], ack 1, win 501, length 0
+18:13:04.295563 IP 40.126.17.132.https > aravind-thinkpad-e15-gen-4.45126: Flags [.], ack 1, win 16385, length 0
+18:13:04.358751 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QM)? f.1.b.f.5.a.9.8.5.f.5.c.9.5.a.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:04.358787 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:13:04.451943 IP 192.168.202.159.mdns > mdns.mcast.net.mdns: 13 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:13:04.554354 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:04.554356 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:04.656300 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:04.656348 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:13:04.759025 IP 192.168.202.131.mdns > mdns.mcast.net.mdns: 0 A (QM)? solsticedirectoryservice.local. (48)
+18:13:04.759037 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:04.861537 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 2645 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:13:04.861539 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 1245 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:13:04.861570 ARP, Request who-has 192.168.202.139 tell 192.168.203.182, length 46
+18:13:04.963677 ARP, Request who-has 192.168.203.145 tell 192.168.203.105, length 46
+18:13:05.066090 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:05.066091 ARP, Request who-has 192.168.203.217 tell 192.168.203.182, length 46
+18:13:05.066093 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:05.168087 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:05.270568 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:05.475546 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:05.578563 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:05.680238 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:05.782717 ARP, Request who-has 192.168.202.139 tell 192.168.203.182, length 46
+18:13:05.782718 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:05.782720 ARP, Request who-has 192.168.203.217 tell 192.168.203.182, length 46
+18:13:05.987290 IP 192.168.202.202.mdns > mdns.mcast.net.mdns: 43 [5q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. PTR (QM)? _44ED731B._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (142)
+18:13:05.987365 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:06.089965 IP 192.168.202.244.mdns > mdns.mcast.net.mdns: 0 [1a] [3q] PTR (QM)? _companion-link._tcp.local. PTR (QM)? lb._dns-sd._udp.local. PTR (QM)? _sleep-proxy._udp.local. (120)
+18:13:06.090012 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:06.192221 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 [2q] PTR (QM)? b.3.5.9.1.7.7.0.9.e.7.4.8.a.4.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QM)? f.1.b.f.5.a.9.8.5.f.5.c.9.5.a.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (128)
+18:13:06.294515 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:06.396843 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:13:06.499385 ARP, Request who-has 192.168.203.145 tell 192.168.203.105, length 46
+18:13:06.601939 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:06.704115 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:13:06.806647 ARP, Request who-has 192.168.202.139 tell 192.168.203.182, length 46
+18:13:06.806649 ARP, Request who-has 192.168.203.217 tell 192.168.203.182, length 46
+18:13:07.011401 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:07.114134 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:07.318498 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:07.420910 IP 192.168.202.77.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+18:13:07.420910 IP6 fe80::30d:9edb:411d:582b.mdns > ff02::fb.mdns: 0 PTR (QU)? _microsoft_mcc._tcp.local. (43)
+18:13:07.429537 IP aravind-thinkpad-e15-gen-4.45126 > 40.126.17.132.https: Flags [P.], seq 1:25, ack 1, win 501, length 24
+18:13:07.429560 IP aravind-thinkpad-e15-gen-4.45126 > 40.126.17.132.https: Flags [F.], seq 25, ack 1, win 501, length 0
+18:13:07.446399 IP 40.126.17.132.https > aravind-thinkpad-e15-gen-4.45126: Flags [.], ack 26, win 16384, length 0
+18:13:07.446400 IP 40.126.17.132.https > aravind-thinkpad-e15-gen-4.45126: Flags [F.], seq 1, ack 26, win 16384, length 0
+18:13:07.446447 IP aravind-thinkpad-e15-gen-4.45126 > 40.126.17.132.https: Flags [.], ack 2, win 501, length 0
+18:13:07.525098 ARP, Request who-has 192.168.202.134 tell 192.168.203.212, length 46
+18:13:07.525098 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:07.626115 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:07.626119 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:07.760038 IP aravind-thinkpad-e15-gen-4.36658 > 162.247.243.29.https: Flags [P.], seq 6907:8222, ack 1152, win 501, options [nop,nop,TS val 872986207 ecr 4013424041], length 1315
+18:13:07.760115 IP aravind-thinkpad-e15-gen-4.35662 > dns.google.domain: 19623+ [1au] A? bam.cell.nr-data.net. (49)
+18:13:07.760178 IP aravind-thinkpad-e15-gen-4.43009 > dns.google.domain: 54912+ [1au] AAAA? bam.cell.nr-data.net. (49)
+18:13:07.765662 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [.], ack 8222, win 328, options [nop,nop,TS val 4013431872 ecr 872986207], length 0
+18:13:07.780809 IP dns.google.domain > aravind-thinkpad-e15-gen-4.35662: 19623 2/0/1 CNAME fastly-tls12-bam.nr-data.net., A 162.247.243.29 (96)
+18:13:07.782117 IP dns.google.domain > aravind-thinkpad-e15-gen-4.43009: 54912 2/0/1 CNAME fastly-tls12-bam.nr-data.net., AAAA ::ffff:162.247.243.29 (108)
+18:13:07.840285 IP 192.168.202.200.1534 > 192.168.203.255.1534: UDP, length 8
+18:13:07.933468 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 862 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:13:08.027837 IP aravind-thinkpad-e15-gen-4.51963 > dns.google.domain: 18004+ [1au] PTR? b.2.8.5.d.1.1.4.b.d.e.9.d.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (101)
+18:13:08.030406 IP 162.247.243.29.https > aravind-thinkpad-e15-gen-4.36658: Flags [P.], seq 1152:1538, ack 8222, win 328, options [nop,nop,TS val 4013432134 ecr 872986207], length 386
+18:13:08.030453 IP aravind-thinkpad-e15-gen-4.36658 > 162.247.243.29.https: Flags [.], ack 1538, win 501, options [nop,nop,TS val 872986478 ecr 4013432134], length 0
+18:13:08.037049 IP 192.168.202.235.mdns > mdns.mcast.net.mdns: 0 [2a] [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (143)
+18:13:08.037170 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:08.037172 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:08.065375 IP dns.google.domain > aravind-thinkpad-e15-gen-4.51963: 18004 NXDomain 0/1/1 (165)
+18:13:08.065692 IP aravind-thinkpad-e15-gen-4.51963 > dns.google.domain: 18004+ PTR? b.2.8.5.d.1.1.4.b.d.e.9.d.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:08.101587 IP dns.google.domain > aravind-thinkpad-e15-gen-4.51963: 18004 NXDomain 0/1/0 (154)
+18:13:08.147486 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QU)? e.b.2.e.b.6.8.c.c.2.c.c.7.f.2.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:08.147512 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:08.240261 IP 192.168.203.167.60960 > 192.168.203.255.1534: UDP, length 8
+18:13:08.342601 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:13:08.445719 ARP, Request who-has 192.168.202.134 tell 192.168.203.212, length 46
+18:13:08.547455 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:08.547457 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:08.650524 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 521 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:13:08.752196 ARP, Request who-has 192.168.203.33 tell 192.168.203.33, length 46
+18:13:08.752199 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:08.854551 ARP, Request who-has 192.168.202.139 tell 192.168.203.182, length 46
+18:13:08.854551 a0:80:69:eb:42:77 (oui Unknown) > Broadcast Null Unnumbered, xid, Flags [Response], length 46: 03 10
+18:13:08.957730 ARP, Request who-has 192.168.202.159 tell 192.168.202.217, length 46
+18:13:08.957733 ARP, Request who-has 169.254.234.184 tell 0.0.0.0, length 46
+18:13:09.047491 IP aravind-thinkpad-e15-gen-4.60499 > dns.google.domain: 31822+ [1au] PTR? 235.202.168.192.in-addr.arpa. (57)
+18:13:09.063996 IP dns.google.domain > aravind-thinkpad-e15-gen-4.60499: 31822 NXDomain 0/0/1 (57)
+18:13:09.064001 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:09.064001 ARP, Request who-has 192.168.203.217 tell 192.168.203.182, length 46
+18:13:09.064005 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:09.064228 IP aravind-thinkpad-e15-gen-4.60499 > dns.google.domain: 31822+ PTR? 235.202.168.192.in-addr.arpa. (46)
+18:13:09.079507 IP dns.google.domain > aravind-thinkpad-e15-gen-4.60499: 31822 NXDomain 0/0/0 (46)
+18:13:09.081070 IP aravind-thinkpad-e15-gen-4.34667 > dns.google.domain: 22050+ [1au] PTR? 33.203.168.192.in-addr.arpa. (56)
+18:13:09.099585 IP dns.google.domain > aravind-thinkpad-e15-gen-4.34667: 22050 NXDomain 0/0/1 (56)
+18:13:09.099863 IP aravind-thinkpad-e15-gen-4.34667 > dns.google.domain: 22050+ PTR? 33.203.168.192.in-addr.arpa. (45)
+18:13:09.118520 IP dns.google.domain > aravind-thinkpad-e15-gen-4.34667: 22050 NXDomain 0/0/0 (45)
+18:13:09.164218 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? e.b.2.e.b.6.8.c.c.2.c.c.7.f.2.9.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:09.164257 IP 192.168.202.235.mdns > mdns.mcast.net.mdns: 0*- [0q] 1/0/0 (Cache flush) PTR engineer-2.local. (114)
+18:13:09.220982 IP6 aravind-thinkpad-e15-gen-4.mdns > ff02::fb.mdns: 0 PTR (QM)? 184.234.254.169.in-addr.arpa. (46)
+18:13:09.221097 IP aravind-thinkpad-e15-gen-4.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? 184.234.254.169.in-addr.arpa. (46)
+18:13:09.266484 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:09.368183 IP 192.168.203.196.mdns > mdns.mcast.net.mdns: 0 ANY (QM)? Mos-Com-10087.local. (37)
+18:13:09.368185 IP 192.168.203.196.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::7060:3d26:408d:b3f9, A 192.168.203.196 (75)
+18:13:09.368239 IP6 fe80::7060:3d26:408d:b3f9.mdns > ff02::fb.mdns: 0 ANY (QM)? Mos-Com-10087.local. (37)
+18:13:09.368240 IP6 fe80::7060:3d26:408d:b3f9.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 AAAA fe80::7060:3d26:408d:b3f9, A 192.168.203.196 (75)
+18:13:09.470139 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 [2q] PTR (QU)? e.e.b.0.a.c.e.1.e.7.4.5.7.a.6.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QU)? 9.f.3.b.d.8.0.4.6.2.d.3.0.6.0.7.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (128)
+18:13:09.470165 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 [2q] PTR (QU)? e.e.b.0.a.c.e.1.e.7.4.5.7.a.6.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. PTR (QU)? 9.f.3.b.d.8.0.4.6.2.d.3.0.6.0.7.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (128)
+18:13:09.470165 ARP, Request who-has 192.168.202.134 tell 192.168.203.212, length 46
+18:13:09.470538 IP6 aravind-thinkpad-e15-gen-4.mdns > ff02::fb.mdns: 0*- [0q] 1/0/0 (Cache flush) PTR aravind-thinkpad-e15-gen-4.local. (130)
+18:13:09.470754 IP aravind-thinkpad-e15-gen-4.mdns > mdns.mcast.net.mdns: 0*- [0q] 1/0/0 (Cache flush) PTR aravind-thinkpad-e15-gen-4.local. (130)
+18:13:09.573031 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:09.573034 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:09.674205 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:09.776508 IP 192.168.202.217.49961 > 192.168.203.255.58581: UDP, length 125
+18:13:09.879126 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from a0:80:69:eb:42:77 (oui Unknown), length 300
+18:13:09.879146 ARP, Request who-has 192.168.202.57 (Broadcast) tell _gateway, length 46
+18:13:09.982209 IP6 fe80::b53a:c4bc:f47d:ce0d.mdns > ff02::fb.mdns: 0 ANY (QM)? Mos-Com-16448.local. (37)
+18:13:09.982211 IP6 fe80::b53a:c4bc:f47d:ce0d.mdns > ff02::fb.mdns: 0*- [0q] 1/0/0 AAAA fe80::b53a:c4bc:f47d:ce0d (59)
+18:13:09.982253 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:10.084530 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? d.0.e.c.d.7.4.f.c.b.4.c.a.3.5.b.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:10.084569 ARP, Request who-has 192.168.203.7 tell 192.168.203.68, length 28
+18:13:10.084570 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:10.188269 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:10.188271 IP6 fe80::1e3f:ed07:a99b:ac2b.mdns > ff02::fb.mdns: 0 ANY (QM)? MOs-Com-11081.local. (37)
+18:13:10.188294 IP6 fe80::1e3f:ed07:a99b:ac2b.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 AAAA fe80::1e3f:ed07:a99b:ac2b, A 192.168.202.27 (75)
+18:13:10.188295 IP6 fe80::1e3f:ed07:a99b:ac2b.mdns > ff02::fb.mdns: 0 ANY (QM)? MOs-Com-11081.local. (37)
+18:13:10.188296 IP6 fe80::1e3f:ed07:a99b:ac2b.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 AAAA fe80::1e3f:ed07:a99b:ac2b, A 192.168.202.27 (75)
+18:13:10.188304 IP 192.168.202.27.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::1e3f:ed07:a99b:ac2b, A 192.168.202.27 (75)
+18:13:10.221169 IP6 aravind-thinkpad-e15-gen-4.mdns > ff02::fb.mdns: 0 PTR (QM)? 184.234.254.169.in-addr.arpa. (46)
+18:13:10.221218 IP aravind-thinkpad-e15-gen-4.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? 184.234.254.169.in-addr.arpa. (46)
+18:13:10.289858 IP 192.168.202.159.mdns > mdns.mcast.net.mdns: 1 [4q] PTR (QU)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QU)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QU)? _233637DE._sub._googlecast._tcp.local. PTR (QU)? _googlecast._tcp.local. (126)
+18:13:10.391481 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? b.2.c.a.b.9.9.a.7.0.d.e.f.3.e.1.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:10.391520 ARP, Request who-has 192.168.202.124 tell 192.168.202.159, length 46
+18:13:10.493515 IP6 fe80::cf5:b30:4324:f4bc.mdns > ff02::fb.mdns: 0 PTR (QM)? 9.f.3.b.d.8.0.4.6.2.d.3.0.6.0.7.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:10.493529 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? 9.f.3.b.d.8.0.4.6.2.d.3.0.6.0.7.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+18:13:10.493531 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:10.595924 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 4369 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:13:10.595926 IP6 fe80::7019:2eff:fe46:8605.mdns > ff02::fb.mdns: 11216 PTR (QM)? _spotify-social-listening._tcp.local. (54)
+18:13:10.698261 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:10.698276 ARP, Request who-has _gateway tell 192.168.202.67, length 46
+18:13:10.800897 IP 192.168.203.196.mdns > mdns.mcast.net.mdns: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+18:13:10.800927 IP6 fe80::7060:3d26:408d:b3f9.mdns > ff02::fb.mdns: 0 PTR (QM)? _microsoft_mcc._tcp.local. (43)
+18:13:10.902927 ARP, Request who-has 192.168.203.7 tell 192.168.203.68, length 28
+18:13:11.005281 ARP, Request who-has 169.254.234.184 tell 0.0.0.0, length 46
+18:13:11.005289 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:11.107534 IP 192.168.202.253.36323 > 192.168.203.255.58581: UDP, length 115
+18:13:11.210010 ARP, Request who-has 192.168.202.124 tell 192.168.202.159, length 46
+18:13:11.322111 IP 192.168.202.159.mdns > mdns.mcast.net.mdns: 2 [4q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (126)
+18:13:11.322121 IP 192.168.203.167.55562 > 192.168.203.255.1534: UDP, length 8
+18:13:11.414798 ARP, Request who-has 169.254.169.254 tell 192.168.203.244, length 46
+18:13:11.517668 IP6 fe80::14c1:1b87:24f6:5af6.mdns > ff02::fb.mdns: 0 [4a] [13q] [1au] PTR (QM)? _uscan._tcp.local. PTR (QM)? _uscans._tcp.local. PTR (QM)? _ippusb._tcp.local. PTR (QM)? _scanner._tcp.local. PTR (QM)? _printer._tcp.local. PTR (QM)? _pdl-datastream._tcp.local. PTR (QM)? _ptp._tcp.local. PTR (QM)? _airport._tcp.local. PTR (QM)? _rdlink._tcp.local. PTR (QM)? _homekit._tcp.local. PTR (QM)? _apple-mobdev._tcp.local. PTR (QM)? 8d8207d5._sub._apple-mobdev2._tcp.local. PTR (QM)? _apple-pairable._tcp.local. (449)
+18:13:11.517676 IP 192.168.202.250.mdns > mdns.mcast.net.mdns: 0 [4a] [13q] [1au] PTR (QM)? _uscan._tcp.local. PTR (QM)? _uscans._tcp.local. PTR (QM)? _ippusb._tcp.local. PTR (QM)? _scanner._tcp.local. PTR (QM)? _printer._tcp.local. PTR (QM)? _pdl-datastream._tcp.local. PTR (QM)? _ptp._tcp.local. PTR (QM)? _airport._tcp.local. PTR (QM)? _rdlink._tcp.local. PTR (QM)? _homekit._tcp.local. PTR (QM)? _apple-mobdev._tcp.local. PTR (QM)? 8d8207d5._sub._apple-mobdev2._tcp.local. PTR (QM)? _apple-pairable._tcp.local. (449)
+18:13:11.517680 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:11.622701 IP 52.98.34.194.https > aravind-thinkpad-e15-gen-4.46662: Flags [P.], seq 1597:1638, ack 2626, win 16386, options [nop,nop,TS val 408560095 ecr 1397671319], length 41
+18:13:11.622737 IP aravind-thinkpad-e15-gen-4.46662 > 52.98.34.194.https: Flags [.], ack 1638, win 1363, options [nop,nop,TS val 1397691289 ecr 408560095], length 0
+18:13:11.622755 ARP, Request who-has 192.168.202.57 (Broadcast) tell _gateway, length 46
+18:13:11.723228 ARP, Request who-has _gateway (Broadcast) tell _gateway, length 46
+18:13:11.723290 IP 192.168.202.198.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/6 PTR HP LaserJet Pro M428-M429 [052C34]._pdl-datastream._tcp.local., PTR HP LaserJet Pro M428-M429 [052C34]._printer._tcp.local. (1142)
+18:13:11.826157 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from a0:80:69:eb:42:77 (oui Unknown), length 300
+18:13:11.929742 ARP, Request who-has 192.168.203.7 tell 192.168.203.68, length 28
+18:13:11.929744 ARP, Request who-has 169.254.234.184 tell 192.168.203.212, length 46
+18:13:11.929745 ARP, Request who-has 192.168.202.124 tell 192.168.202.159, length 46
+18:13:11.929745 ARP, Request who-has 169.254.234.184 tell 192.168.202.102, length 28
+18:13:11.929745 ARP, Request who-has 169.254.234.184 tell 192.168.202.152, length 46
+18:13:11.929746 ARP, Request who-has 169.254.234.184 tell 192.168.202.184, length 46
+18:13:11.929746 ARP, Request who-has 169.254.234.184 tell 192.168.202.206, length 46
+18:13:11.929746 ARP, Request who-has 169.254.234.184 tell 192.168.202.248, length 28
+18:13:11.929790 ARP, Request who-has 169.254.234.184 tell 192.168.203.79, length 46
+18:13:11.929790 ARP, Request who-has 169.254.234.184 tell 192.168.203.193, length 46
+18:13:11.929791 ARP, Request who-has 169.254.234.184 tell 192.168.203.63, length 28
+18:13:11.929791 ARP, Request who-has 169.254.234.184 tell 192.168.202.128, length 28
+18:13:11.929791 ARP, Request who-has 169.254.234.184 tell 192.168.203.68, length 28
+18:13:11.929792 ARP, Request who-has 169.254.234.184 tell 192.168.203.133, length 28
+18:13:11.929792 ARP, Request who-has 169.254.234.184 tell 192.168.202.163, length 46
+18:13:11.929792 ARP, Request who-has 169.254.234.184 tell 192.168.202.138, length 46
+18:13:11.929807 ARP, Request who-has 169.254.234.184 tell 192.168.203.105, length 46
+18:13:12.031443 IP6 fe80::b53a:c4bc:f47d:ce0d.mdns > ff02::fb.mdns: 0 ANY (QM)? Mos-Com-16448.local. (37)
+18:13:12.031444 IP6 fe80::b53a:c4bc:f47d:ce0d.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 AAAA fe80::b53a:c4bc:f47d:ce0d, A 169.254.234.184 (75)
+18:13:12.031477 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:12.031477 ARP, Request who-has 169.254.234.184 tell 192.168.202.181, length 46
+18:13:12.031479 ARP, Request who-has 169.254.234.184 tell 192.168.202.223, length 46
+18:13:12.132534 IP 192.168.202.234.mdns > mdns.mcast.net.mdns: 0 PTR (QU)? 184.234.254.169.in-addr.arpa. (46)
+18:13:12.132538 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 60:45:2e:b7:0f:e3 (oui Unknown), length 318
+18:13:12.132555 IP 192.168.202.51.34372 > 192.168.203.255.58581: UDP, length 128
+18:13:12.223306 IP6 aravind-thinkpad-e15-gen-4.mdns > ff02::fb.mdns: 0 PTR (QM)? 184.234.254.169.in-addr.arpa. (46)
+18:13:12.236601 IP6 fe80::a580:2278:fece:4e49.mdns > ff02::fb.mdns: 0 ANY (QM)? Mos-Com-10975.local. (37)
+18:13:12.236604 IP6 fe80::a580:2278:fece:4e49.mdns > ff02::fb.mdns: 0*- [0q] 2/0/0 AAAA fe80::a580:2278:fece:4e49, A 192.168.203.14 (75)
+18:13:12.236692 IP 192.168.203.14.mdns > mdns.mcast.net.mdns: 0*- [0q] 2/0/0 AAAA fe80::a580:2278:fece:4e49, A 192.168.203.14 (75)
+18:13:12.336681 IP 192.168.202.207.64308 > mdns.mcast.net.mdns: 0 TXT (QM)? Mos-com-10818._nomachine._tcp.local. (53)
+18:13:12.336791 ARP, Request who-has _gateway tell 192.168.202.51, length 46
+18:13:12.336794 ARP, Request who-has 169.254.169.254 tell 192.168.203.244, length 46
+18:13:12.440996 IP6 fe80::b53a:c4bc:f47d:ce0d.mdns > ff02::fb.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+18:13:12.440997 IP6 fe80::b53a:c4bc:f47d:ce0d.mdns > ff02::fb.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+18:13:12.441035 IP 192.168.202.207.mdns > mdns.mcast.net.mdns: 0*- [0q] 1/0/0 (Cache flush) TXT "name=Mos-com-10818" "uuid=f32c8e5d-6aa7-4d4f-92b8-e1ae9678aef4" "type=NoMachine" "port=0" "OS=Windows 11" "HW=LENOVO 21JNS0AY00" "mac=60:45:2e:b7:1b:9b" "service=nx:4000" "ip=10.15.61.52;192.168.202.207;192.168.137.1;fe80::16bc:6339:e948:d60e;fe80::f584:4c00:a8d1:9d37" (312)
+18:13:12.541759 IP6 fe80::b53a:c4bc:f47d:ce0d.mdns > ff02::fb.mdns: 0 PTR (QM)? _googlecast._tcp.local. (40)
+18:13:12.541793 IP 192.168.202.200.64758 > 192.168.203.255.1534: UDP, length 8
+18:13:12.541794 IP 192.168.202.67.36449 > 192.168.203.255.58581: UDP, length 140
+18:13:12.644383 IP 192.168.202.89.mdns > mdns.mcast.net.mdns: 6 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _CFE7FEDA._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+18:13:12.746190 IP 192.168.202.207.64308 > mdns.mcast.net.mdns: 0 [2q] TXT (QM)? Mos-com-10818._nomachine._tcp.local. PTR (QM)? _nomachine._tcp.local. (59)
+18:13:12.746235 IP 169.254.234.184.netbios-ns > 169.254.255.255.netbios-ns: UDP, length 68
+
