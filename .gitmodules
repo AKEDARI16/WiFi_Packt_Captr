@@ -1,0 +1,3 @@
+[submodule "WIFI_Capt/MtlPacketLyzer/WIFI_Capt/MtlPacketLyzer/MtlNetLyzer_jun_2.1/MtlNetLyzer"]
+	path = WIFI_Capt/MtlPacketLyzer/WIFI_Capt/MtlPacketLyzer/MtlNetLyzer_jun_2.1/MtlNetLyzer
+	url = https://github.com/venu8801/MtlNetLyzer
